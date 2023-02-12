@@ -61,15 +61,15 @@
 },
 {
 "text": "Hoy es el mañana que nos preocupaba ayer.",
-"author": nulo
+"author": null
 },
 {
 "text": "Es mas facil ver los errores en el papel de otra persona.",
-"author": nulo
+"author": null
 },
 {
 "text": "Todos los hombres mueren. No todos los hombres realmente viven.",
-"author": nulo
+"author": null
 },
 {
 "text": "Para guiar a la gente camina detras de ellos.",
@@ -109,7 +109,7 @@
 },
 {
 "text": "El dia ya esta bendecido, encuentra paz dentro de el.",
-"author": nulo
+"author": null
 },
 {
 "text": "De error en error uno descubre toda la verdad.",
@@ -145,7 +145,7 @@
 },
 {
 "text": "De pequeños comienzos vienen grandes cosas.",
-"author": nulo
+"author": null
 },
 {
 "text": "El aprendizaje es un tesoro que seguira a su dueño a todas partes",
@@ -256,7 +256,7 @@
 "author": "Byron Pulsifer"
 },
 {
-"text": "Cuando el rendimiento supera la ambicion, la superposicion se denomina exito".,
+"text": "Cuando el rendimiento supera la ambicion, la superposicion se denomina exito",
 "author": "Torre Alta Cullen"
 },
 {
@@ -300,7 +300,7 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "Todos conocen el camino; pocos lo recorren".,
+"text": "Todos conocen el camino; pocos lo recorren",
 "author": "Bodhidharma"
 },
 {
@@ -332,12 +332,12 @@
 "author": "Sofocles"
 },
 {
-"text": "Se necesita sol y lluvia para hacer un arcoiris".,
-"author": nulo
+"text": "Se necesita sol y lluvia para hacer un arcoiris",
+"author": null
 },
 {
 "text": "Una cosa hermosa nunca es perfecta.",
-"author": nulo
+"author": null
 },
 {
 "text": "Solo haz lo que tu corazon te diga.",
@@ -352,7 +352,7 @@
 "author": "Eleanor Roosevelt"
 },
 {
-"text": "Defiende tus limitaciones y seguro que son tuyas".,
+"text": "Defiende tus limitaciones y seguro que son tuyas",
 "author": "Richard Bach"
 },
 {
@@ -385,7 +385,7 @@
 },
 {
 "text": "Cada nuevo dia es otra oportunidad para cambiar tu vida.",
-"author": nulo
+"author": null
 },
 {
 "text": "Sonrie, respira y ve despacio.",
@@ -405,7 +405,7 @@
 },
 {
 "text": "Algunos buscan la felicidad, otros la crean.",
-"author": nulo
+"author": null
 },
 {
 "text": "El que es vertiginoso piensa que el mundo da vueltas.",
@@ -421,7 +421,7 @@
 },
 {
 "text": "Hacemos lo que hacemos porque creemos.",
-"author": nulo
+"author": null
 },
 {
 "text": "Haz una cosa cada dia que te asuste.",
@@ -449,7 +449,7 @@
 },
 {
 "text": "Cuanto mas fuerte caes, mas alto rebotas.",
-"author": nulo
+"author": null
 },
 {
 "text": "Confiar en nuestra intuicion a menudo nos salva del desastre.",
@@ -477,7 +477,7 @@
 },
 {
 "text": "Todos sonrien en el mismo idioma.",
-"author": nulo
+"author": null
 },
 {
 "text": "Ayer me atrevi a luchar. Hoy me atrevo a ganar.",
@@ -549,7 +549,7 @@
 },
 {
 "text": "Puedes hacer lo que es razonable o puedes decidir lo que es posible.",
-"author": nulo
+"author": null
 },
 {
 "text": "Nada fortalece tanto la authoridad como el silencio.",
@@ -568,12 +568,12 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "Los arcoiris se disculpan por los cielos enojados".,
+"text": "Los arcoiris se disculpan por los cielos enojados",
 "author": "Sylvia Voirol"
 },
 {
 "text": "La amistad no es gran cosa. Son un millon de pequeñas cosas.",
-"author": nulo
+"author": null
 },
 {
 "text": "El tiempo es lo mas valioso que un hombre puede gastar.",
@@ -593,7 +593,7 @@
 },
 {
 "text": "Un buen plan hoy es mejor que un plan perfecto mañana.",
-"author": nulo
+"author": null
 },
 {
 "text": "Si el zapato no entra, ¿debemos cambiar el pie?",
@@ -612,7 +612,7 @@
 "author": "Bernard Shaw"
 },
 {
-"text": "Para traer algo a tu vida, imagina que ya esta alli".,
+"text": "Para traer algo a tu vida, imagina que ya esta alli",
 "author": "Richard Bach"
 },
 {
@@ -625,7 +625,7 @@
 },
 {
 "text": "Alguien recuerda, alguien se preocupa; tu nombre se susurra en las oraciones de alguien.",
-"author": nulo
+"author": null
 },
 {
 "text": "Sin fe, nada es posible. Con ella, nada es imposible.",
@@ -637,7 +637,7 @@
 },
 {
 "text": "No te dejes empujar por tus problemas; dejate guiar por tus sueños.",
-"author": nulo
+"author": null
 },
 {
 "text": "Todo lo que esperamos con confianza se convierte en nuestra propia profecia autocumplida.",
@@ -665,10 +665,10 @@
 },
 {
 "text": "¡Cambia tus pensamientos, cambia tu vida!",
-"author": nulo
+"author": null
 },
 {
-"text": "Nunca ignores un presentimiento, pero nunca creas que es suficiente".,
+"text": "Nunca ignores un presentimiento, pero nunca creas que es suficiente",
 "author": "Roberto Heller"
 },
 {
@@ -681,7 +681,7 @@
 },
 {
 "text": "Hoy es el mañana que te preocupaba ayer.",
-"author": nulo
+"author": null
 },
 {
 "text": "No hay camino a la felicidad, la felicidad es el camino.",
@@ -689,11 +689,11 @@
 },
 {
 "text": "El dia siempre se ve mas brillante detras de una sonrisa.",
-"author": nulo
+"author": null
 },
 {
 "text": "Un tropiezo puede prevenir una caida.",
-"author": nulo
+"author": null
 },
 {
 "text": "Quien habla mas pronto se cansa.",
@@ -721,14 +721,14 @@
 },
 {
 "text": "Deja tu futuro en buenas manos.",
-"author": nulo
+"author": null
 },
 {
 "text": "Elegimos nuestro destino en la forma en que tratamos a los demas.",
 "author": "Ingenio"
 },
 {
-"text": "Ningun copo de nieve en una avalancha se siente responsable".,
+"text": "Ningun copo de nieve en una avalancha se siente responsable",
 "author": "Voltaire"
 },
 {
@@ -909,7 +909,7 @@
 },
 {
 "text": "Lo que ves depende de lo que estes buscando.",
-"author": nulo
+"author": null
 },
 {
 "text": "El corazon tiene sus razones que la razon no conoce.",
@@ -937,7 +937,7 @@
 },
 {
 "text": "La preocupacion le da una gran sombra a una cosa pequeña.",
-"author": nulo
+"author": null
 },
 {
 "text": "Los miedos no son mas que un estado de animo.",
@@ -1040,11 +1040,11 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "Todas las estaciones son hermosas para la persona que lleva la felicidad dentro".,
+"text": "Todas las estaciones son hermosas para la persona que lleva la felicidad dentro",
 "author": "Horace Friess"
 },
 {
-"text": "Para evitar las criticas, no hagas nada, no digas nada, no seas nada".,
+"text": "Para evitar las criticas, no hagas nada, no digas nada, no seas nada",
 "author": "Elbert Hubbard"
 },
 {
@@ -1089,11 +1089,11 @@
 },
 {
 "text": "Para conseguir algo que nunca tuviste, tienes que hacer algo que nunca hiciste.",
-"author": nulo
+"author": null
 },
 {
 "text": "Se agradecido cuando no sepas algo porque te da la oportunidad de aprender.",
-"author": nulo
+"author": null
 },
 {
 "text": "La fuerza no proviene de la capacidad fisica. Proviene de una voluntad indomable.",
@@ -1117,14 +1117,14 @@
 },
 {
 "text": "Dejar ir no es el fin del mundo, es el comienzo de una nueva vida.",
-"author": nulo
+"author": null
 },
 {
-"text": "Todos los grandes artistas con los que he trabajado estan motivados por un sueño personal".,
+"text": "Todos los grandes artistas con los que he trabajado estan motivados por un sueño personal",
 "author": "John Eliot"
 },
 {
-"text": "Una de las ventajas de ser desordenado es que uno esta constantemente haciendo descubrimientos emocionantes".,
+"text": "Una de las ventajas de ser desordenado es que uno esta constantemente haciendo descubrimientos emocionantes",
 "author": "AA Milne"
 },
 {
@@ -1136,7 +1136,7 @@
 "author": "Seneca"
 },
 {
-"text": "Si no sabes a donde vas, probablemente terminaras en otro lugar".,
+"text": "Si no sabes a donde vas, probablemente terminaras en otro lugar",
 "author": "Lawrence Peter"
 },
 {
@@ -1160,12 +1160,12 @@
 "author": "Seneca"
 },
 {
-"text": "Nuestra mayor gloria no esta en fallar nunca, sino en levantarnos cada vez que caemos".,
-"author": nulo
+"text": "Nuestra mayor gloria no esta en fallar nunca, sino en levantarnos cada vez que caemos",
+"author": null
 },
 {
 "text": "Tener razon esta muy sobrevalorado. Incluso un reloj parado acierta dos veces al dia.",
-"author": nulo
+"author": null
 },
 {
 "text": "Estar molesto por lo que no tienes es desperdiciar lo que tienes.",
@@ -1180,19 +1180,19 @@
 "author": "Marie Curie"
 },
 {
-"text": "Las personas exitosas hacen mejores preguntas y, como resultado, obtienen mejores respuestas".,
+"text": "Las personas exitosas hacen mejores preguntas y, como resultado, obtienen mejores respuestas",
 "author": "Tony Robbins"
 },
 {
 "text": "El amor no es ciego; simplemente le permite a uno ver cosas que otros no pueden ver.",
-"author": nulo
+"author": null
 },
 {
 "text": "La vida es un proceso. Nosotros somos un proceso. El universo es un proceso.",
 "author": "Anne Schaef"
 },
 {
-"text": "Creo que de alguna manera aprendemos quienes somos realmente y luego vivimos con esa decision".,
+"text": "Creo que de alguna manera aprendemos quienes somos realmente y luego vivimos con esa decision",
 "author": "Eleanor Roosevelt"
 },
 {
@@ -1205,7 +1205,7 @@
 },
 {
 "text": "Si te levantas una vez mas de las que te caes, lo superaras.",
-"author": nulo
+"author": null
 },
 {
 "text": "Las puertas que abrimos y cerramos cada dia deciden la vida que vivimos.",
@@ -1221,14 +1221,14 @@
 },
 {
 "text": "No te enfoques en tomar la decision correcta, concentrate en tomar la decision correcta.",
-"author": nulo
+"author": null
 },
 {
 "text": "Todo es perfecto en el universo, incluso tu deseo de mejorarlo.",
 "author": "Wayne Dyer"
 },
 {
-"text": "El universo esta lleno de cosas magicas que esperan pacientemente a que nuestro ingenio se agudice".,
+"text": "El universo esta lleno de cosas magicas que esperan pacientemente a que nuestro ingenio se agudice",
 "author": "Eden Phillpotts"
 },
 {
@@ -1273,11 +1273,11 @@
 },
 {
 "text": "Amor es solo una palabra hasta que alguien llega y le da significado.",
-"author": nulo
+"author": null
 },
 {
 "text": "Todos tenemos problemas. La forma en que los resolvemos es lo que nos hace diferentes.",
-"author": nulo
+"author": null
 },
 {
 "text": "El secreto de una vida rica es tener mas comienzos que finales.",
@@ -1304,7 +1304,7 @@
 "author": "Henri-Frederic Amiel"
 },
 {
-"text": "No le tengo miedo a las tormentas, porque estoy aprendiendo a navegar mi barco".,
+"text": "No le tengo miedo a las tormentas, porque estoy aprendiendo a navegar mi barco",
 "author": "Louisa Alcott"
 },
 {
@@ -1348,7 +1348,7 @@
 "author": "Richard Bach"
 },
 {
-"text": "¿Tienes enemigos? Bien. Eso significa que has defendido algo en algun momento de tu vida".,
+"text": "¿Tienes enemigos? Bien. Eso significa que has defendido algo en algun momento de tu vida",
 "author": "Winston Churchill"
 },
 {
@@ -1360,11 +1360,11 @@
 "author": "Buda"
 },
 {
-"text": "Siempre quise ser alguien, pero debi haber sido mas especifico".,
+"text": "Siempre quise ser alguien, pero debi haber sido mas especifico",
 "author": "Lily Tomlin"
 },
 {
-"text": "Si, todos brillamos, como la luna, las estrellas y el sol".,
+"text": "Si, todos brillamos, como la luna, las estrellas y el sol",
 "author": "John Lennon"
 },
 {
@@ -1380,7 +1380,7 @@
 "author": "Albert Schweitzer"
 },
 {
-"text": "La mayoria pierde la oportunidad porque esta vestida con un mono y parece trabajo".,
+"text": "La mayoria pierde la oportunidad porque esta vestida con un mono y parece trabajo",
 "author": "Thomas Edison"
 },
 {
@@ -1392,7 +1392,7 @@
 "author": "Johann Wolfgang von Goethe"
 },
 {
-"text": "Si corriges tu mente, el resto de tu vida se acomodara".,
+"text": "Si corriges tu mente, el resto de tu vida se acomodara",
 "author": "Lao Tse"
 },
 {
@@ -1400,7 +1400,7 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "Cuando tus deseos sean lo suficientemente fuertes, parecera que posees poderes sobrehumanos para lograrlo".,
+"text": "Cuando tus deseos sean lo suficientemente fuertes, parecera que posees poderes sobrehumanos para lograrlo",
 "author": "Colina de Napoleon"
 },
 {
@@ -1433,7 +1433,7 @@
 },
 {
 "text": "Inventa tu mundo. Rodeate de gente, color, sonidos y trabajo que te nutran.",
-"author": nulo
+"author": null
 },
 {
 "text": "Es fatal entrar en una guerra sin la voluntad de ganarla.",
@@ -1444,7 +1444,7 @@
 "author": "Julius Charles Hare"
 },
 {
-"text": "No hay nada en una oruga que te indique que sera una mariposa".,
+"text": "No hay nada en una oruga que te indique que sera una mariposa",
 "author": "Buckminster Fuller"
 },
 {
@@ -1460,7 +1460,7 @@
 "author": "Confucio"
 },
 {
-"text": "Si pasas demasiado tiempo pensando en algo, nunca lo haras".,
+"text": "Si pasas demasiado tiempo pensando en algo, nunca lo haras",
 "author": "Bruce Lee"
 },
 {
@@ -1476,11 +1476,11 @@
 "author": "Buda"
 },
 {
-"text": "La mayoria de las veces, la ira es en realidad una indicacion de debilidad mas que de fuerza".,
+"text": "La mayoria de las veces, la ira es en realidad una indicacion de debilidad mas que de fuerza",
 "author": "Dalai Lama"
 },
 {
-"text": "Antes de fruncir el ceño, asegurate de que no haya sonrisas disponibles".,
+"text": "Antes de fruncir el ceño, asegurate de que no haya sonrisas disponibles",
 "author": "Jim Beggs"
 },
 {
@@ -1488,7 +1488,7 @@
 "author": "Donald Kircher"
 },
 {
-"text": "Tu, tu mismo, tanto como cualquier otra persona en el universo entero, mereces tu amor y afecto".,
+"text": "Tu, tu mismo, tanto como cualquier otra persona en el universo entero, mereces tu amor y afecto",
 "author": "Buda"
 },
 {
@@ -1504,11 +1504,11 @@
 "author": "Marques Vauvenargues"
 },
 {
-"text": "La vida esta construida de tal manera que un evento no coincide, no puede, no coincidira con la expectativa".,
+"text": "La vida esta construida de tal manera que un evento no coincide, no puede, no coincidira con la expectativa",
 "author": "Charlotte Bronte"
 },
 {
-"text": "Si cambias la forma en que miras las cosas, las cosas que miras cambian".,
+"text": "Si cambias la forma en que miras las cosas, las cosas que miras cambian",
 "author": "Wayne Dyer"
 },
 {
@@ -1524,23 +1524,23 @@
 "author": "Robert Stevenson"
 },
 {
-"text": "Dicen que el tiempo cambia las cosas, pero en realidad tienes que cambiarlas tu mismo".,
+"text": "Dicen que el tiempo cambia las cosas, pero en realidad tienes que cambiarlas tu mismo",
 "author": "Andy Warhol"
 },
 {
-"text": "Nunca te disculpes por mostrar sentimientos. Cuando lo haces, te disculpas por la verdad".,
+"text": "Nunca te disculpes por mostrar sentimientos. Cuando lo haces, te disculpas por la verdad",
 "author": "Benjamin Disraeli"
 },
 {
-"text": "La verdad en la que crees y a la que te aferras hace que no estes disponible para escuchar nada nuevo".,
+"text": "La verdad en la que crees y a la que te aferras hace que no estes disponible para escuchar nada nuevo",
 "author": "Pema Chodron"
 },
 {
-"text": "La adversidad tiene el efecto de despertar talentos que, en circunstancias prosperas, habrian permanecido inactivos".,
+"text": "La adversidad tiene el efecto de despertar talentos que, en circunstancias prosperas, habrian permanecido inactivos",
 "author": "Horacio"
 },
 {
-"text": "Si pasas toda tu vida esperando la tormenta, nunca disfrutaras de la luz del sol".,
+"text": "Si pasas toda tu vida esperando la tormenta, nunca disfrutaras de la luz del sol",
 "author": "Morris Oeste"
 },
 {
@@ -1561,7 +1561,7 @@
 },
 {
 "text": "Todos los dias pueden no ser buenos, pero hay algo bueno en todos los dias.",
-"author": nulo
+"author": null
 },
 {
 "text": "La mayoria de las personas son tan felices como deciden serlo.",
@@ -1572,8 +1572,8 @@
 "author": "Lao Tse"
 },
 {
-"text": "Algunas personas piensan que sostener es lo que te hace fuerte, a veces es soltar".,
-"author": nulo
+"text": "Algunas personas piensan que sostener es lo que te hace fuerte, a veces es soltar",
+"author": null
 },
 {
 "text": "Es en nuestros fracasos que basamos un exito nuevo, diferente y mejor.",
@@ -1596,7 +1596,7 @@
 "author": "Thomas Hardy"
 },
 {
-"text": "Eres lo suficientemente importante como para pedirlo y eres lo suficientemente bendecido para recibir de vuelta".,
+"text": "Eres lo suficientemente importante como para pedirlo y eres lo suficientemente bendecido para recibir de vuelta",
 "author": "Wayne Dyer"
 },
 {
@@ -1604,7 +1604,7 @@
 "author": "Colina de Napoleon"
 },
 {
-"text": "Si quieres que tu vida sea mas gratificante, debes cambiar tu forma de pensar".,
+"text": "Si quieres que tu vida sea mas gratificante, debes cambiar tu forma de pensar",
 "author": "Oprah Winfrey"
 },
 {
@@ -1612,7 +1612,7 @@
 "author": "Byron Pulsifer"
 },
 {
-"text": "La unica diferencia entre tus habilidades y las de los demas es la capacidad de ponerte en su lugar y realmente intentarlo".,
+"text": "La unica diferencia entre tus habilidades y las de los demas es la capacidad de ponerte en su lugar y realmente intentarlo",
 "author": "Leonardo Ruiz"
 },
 {
@@ -1632,7 +1632,7 @@
 "author": "Lao Tse"
 },
 {
-"text": "No dejes una piedra sin remover. Siempre es algo, saber que has hecho todo lo que has podido".,
+"text": "No dejes una piedra sin remover. Siempre es algo, saber que has hecho todo lo que has podido",
 "author": "Charles Dickens"
 },
 {
@@ -1652,31 +1652,31 @@
 "author": "John Astin"
 },
 {
-"text": "Un poco mas de persistencia, un poco mas de esfuerzo, y lo que parecia un fracaso sin esperanza puede convertirse en un exito glorioso".,
+"text": "Un poco mas de persistencia, un poco mas de esfuerzo, y lo que parecia un fracaso sin esperanza puede convertirse en un exito glorioso",
 "author": "Elbert Hubbard"
 },
 {
-"text": "No existe la jubilacion para un artista, es tu forma de vida, por lo que no tiene fin".,
+"text": "No existe la jubilacion para un artista, es tu forma de vida, por lo que no tiene fin",
 "author": "Henry Moore"
 },
 {
-"texto": "No me preocupare de que otros hombres no me conozcan; me preocupare de mi propia falta de habilidad".,
+"texto": "No me preocupare de que otros hombres no me conozcan; me preocupare de mi propia falta de habilidad",
 "author": "Confucio"
 },
 {
 "text": "¿Por que preocuparse por cosas que no puedes controlar cuando puedes mantenerte ocupado controlando las cosas que dependen de ti?",
-"author": nulo
+"author": null
 },
 {
-"text": "Cuando te contentas con ser simplemente tu mismo y no comparas ni compites, todos te respetaran".,
+"text": "Cuando te contentas con ser simplemente tu mismo y no comparas ni compites, todos te respetaran",
 "author": "Laozi"
 },
 {
-"texto": "No tengas miedo de la grandeza: algunos nacen grandes, algunos alcanzan la grandeza y a otros les imponen la grandeza".,
+"texto": "No tengas miedo de la grandeza: algunos nacen grandes, algunos alcanzan la grandeza y a otros les imponen la grandeza",
 "author": "William Shakespeare"
 },
 {
-"text": "El exito significa tener el coraje, la determinacion y la voluntad de convertirte en la persona que crees que estas destinado a ser".,
+"text": "El exito significa tener el coraje, la determinacion y la voluntad de convertirte en la persona que crees que estas destinado a ser",
 "author": "George Sheehan"
 },
 {
@@ -1700,15 +1700,15 @@
 "author": "Louise Hay"
 },
 {
-"text": "No importa cuan cuidadosamente planees tus objetivos, nunca seran mas que sueños imposibles a menos que los persigas con entusiasmo".,
+"text": "No importa cuan cuidadosamente planees tus objetivos, nunca seran mas que sueños imposibles a menos que los persigas con entusiasmo",
 "author": "W. Clement Stone"
 },
 {
-"text": "La razon por la que la mayoria de los objetivos no se logran es que pasamos nuestro tiempo haciendo lo segundo primero".,
+"text": "La razon por la que la mayoria de los objetivos no se logran es que pasamos nuestro tiempo haciendo lo segundo primero",
 "author": "Robert McKain"
 },
 {
-"text": "Si tus acciones inspiran a otros a soñar mas, aprender mas, hacer mas y ser mas, eres un lider".,
+"text": "Si tus acciones inspiran a otros a soñar mas, aprender mas, hacer mas y ser mas, eres un lider",
 "author": "John Quincy Adams"
 },
 {
@@ -1728,7 +1728,7 @@
 "author": "William Saroyan"
 },
 {
-"text": "Tu destino no es solo el destino; es como usas tus propias habilidades desarrolladas para obtener lo que quieres".,
+"text": "Tu destino no es solo el destino; es como usas tus propias habilidades desarrolladas para obtener lo que quieres",
 "author": "Byron Pulsifer"
 },
 {
@@ -1744,7 +1744,7 @@
 "author": "Henry Van Dyke"
 },
 {
-"text": "Tienes que tener cuidado si no sabes a donde vas, porque es posible que no llegues alli".,
+"text": "Tienes que tener cuidado si no sabes a donde vas, porque es posible que no llegues alli",
 "author": "Yogui Berra"
 },
 {
@@ -1768,7 +1768,7 @@
 "author": "Jane Addams"
 },
 {
-"text": "Por naturaleza, el hombre odia el cambio; rara vez abandonara su antiguo hogar hasta que se le haya caido encima de las orejas".,
+"text": "Por naturaleza, el hombre odia el cambio; rara vez abandonara su antiguo hogar hasta que se le haya caido encima de las orejas",
 "author": "Thomas Carlyle"
 },
 {
@@ -1785,7 +1785,7 @@
 },
 {
 "text": "Es mejor dar muchos pequeños pasos en la direccion correcta que dar un gran salto hacia adelante y tropezar hacia atras.",
-"author": nulo
+"author": null
 },
 {
 "text": "Si tenemos una actitud mental positiva, incluso cuando nos rodeemos de hostilidad, no nos faltara la paz interior.",
@@ -1804,19 +1804,19 @@
 "author": "Alan Cohen"
 },
 {
-"text": "Solo hay un rincon del universo que puedes estar seguro de mejorar, y ese eres tu mismo".,
+"text": "Solo hay un rincon del universo que puedes estar seguro de mejorar, y ese eres tu mismo",
 "author": "Aldous Huxley"
 },
 {
-"text": "No estas obligado a ganar. Estas obligado a seguir tratando de hacer lo mejor que puedas todos los dias".,
+"text": "No estas obligado a ganar. Estas obligado a seguir tratando de hacer lo mejor que puedas todos los dias",
 "author": "Marian Edelman"
 },
 {
-"text": "Todos pueden saborear el exito cuando las cosas son faciles, pero pocos saben como saborear la victoria cuando los tiempos se ponen dificiles".,
+"text": "Todos pueden saborear el exito cuando las cosas son faciles, pero pocos saben como saborear la victoria cuando los tiempos se ponen dificiles",
 "author": "Byron Pulsifer"
 },
 {
-"text": "La escucha profunda es milagrosa tanto para el que escucha como para el que habla. Cuando alguien nos recibe con un corazon abierto, sin juzgar y con una escucha intensamente interesada, nuestro espiritu se expande".,
+"text": "La escucha profunda es milagrosa tanto para el que escucha como para el que habla. Cuando alguien nos recibe con un corazon abierto, sin juzgar y con una escucha intensamente interesada, nuestro espiritu se expande",
 "author": "Sue Patton Thoele"
 },
 {
@@ -1832,7 +1832,7 @@
 "author": "Kathleen Norris"
 },
 {
-"text": "Elige un trabajo que te guste y no tendras que trabajar ni un dia de tu vida".,
+"text": "Elige un trabajo que te guste y no tendras que trabajar ni un dia de tu vida",
 "author": "Confucio"
 },
 {
@@ -1884,8 +1884,8 @@
 "author": "Buda"
 },
 {
-"text": "Mientras el resto del mundo sale por la puerta, tus mejores amigos son los que entran".,
-"author": nulo
+"text": "Mientras el resto del mundo sale por la puerta, tus mejores amigos son los que entran",
+"author": null
 },
 {
 "text": "La paciencia es una virtud, pero nunca lograras nada si no ejercitas la accion sobre la paciencia.",
@@ -1896,11 +1896,11 @@
 "author": "Robert Lynd"
 },
 {
-"text": "Si el hombre soltero se planta indomablemente en sus instintos, y alli permanece, el enorme mundo se le acercara".,
+"text": "Si el hombre soltero se planta indomablemente en sus instintos, y alli permanece, el enorme mundo se le acercara",
 "author": "Ralph Emerson"
 },
 {
-"text": "El dinero nunca fue una gran motivacion para mi, excepto como una forma de llevar la cuenta. La verdadera emocion es jugar".,
+"text": "El dinero nunca fue una gran motivacion para mi, excepto como una forma de llevar la cuenta. La verdadera emocion es jugar",
 "author": "Donald Trump"
 },
 {
@@ -1908,7 +1908,7 @@
 "author": "Eleanor Roosevelt"
 },
 {
-"text": "La paz no es algo que deseas. Es algo que creas, algo que haces, algo que eres y algo que das".,
+"text": "La paz no es algo que deseas. Es algo que creas, algo que haces, algo que eres y algo que das",
 "author": "Robert Fulghum"
 },
 {
@@ -1932,7 +1932,7 @@
 "author": "Dalai Lama"
 },
 {
-"text": "La vida es como una alcantarilla. Lo que obtienes de ella depende de lo que le pongas".,
+"text": "La vida es como una alcantarilla. Lo que obtienes de ella depende de lo que le pongas",
 "author": "Tom Lehrer"
 },
 {
@@ -1964,7 +1964,7 @@
 "author": "Marco Aurelio"
 },
 {
-"text": "Lo que pensamos determina lo que nos sucede, asi que si queremos cambiar nuestras vidas, debemos expandir nuestras mentes".,
+"text": "Lo que pensamos determina lo que nos sucede, asi que si queremos cambiar nuestras vidas, debemos expandir nuestras mentes",
 "author": "Wayne Dyer"
 },
 {
@@ -1976,11 +1976,11 @@
 "author": "Sydney Smith"
 },
 {
-"text": "Cuando veas a un hombre digno, piensa en como puedes emularlo. Cuando veas a alguien que no es digno, examinate a ti mismo".,
+"text": "Cuando veas a un hombre digno, piensa en como puedes emularlo. Cuando veas a alguien que no es digno, examinate a ti mismo",
 "author": "Confucio"
 },
 {
-"text": "Aerodinamicamente, el abejorro no deberia poder volar, pero el abejorro no lo sabe, asi que sigue volando de todos modos".,
+"text": "Aerodinamicamente, el abejorro no deberia poder volar, pero el abejorro no lo sabe, asi que sigue volando de todos modos",
 "author": "Mary Kay Ash"
 },
 {
@@ -1988,16 +1988,16 @@
 "author": "Lloyd Jones"
 },
 {
-"text": "Los copos de nieve son una de las cosas mas fragiles de la naturaleza, pero mira lo que pueden hacer cuando se mantienen unidos".,
+"text": "Los copos de nieve son una de las cosas mas fragiles de la naturaleza, pero mira lo que pueden hacer cuando se mantienen unidos",
 "author": "Vista Kelly"
 },
 {
-"text": "El primer paso para obtener las cosas que quieres de la vida es este: decide lo que quieres".,
+"text": "El primer paso para obtener las cosas que quieres de la vida es este: decide lo que quieres",
 "author": "Ben Stein"
 },
 {
-"text": "¿Por que compararte con los demas? Nadie en el mundo entero puede ser mejor que tu".,
-"author": nulo
+"text": "¿Por que compararte con los demas? Nadie en el mundo entero puede ser mejor que tu",
+"author": null
 },
 {
 "text": "La experiencia no es lo que le sucede a un hombre. Es lo que un hombre hace con lo que le sucede.",
@@ -2005,7 +2005,7 @@
 },
 {
 "text": "Un buen maestro es como una vela que se consume para iluminar el camino de los demas.",
-"author": nulo
+"author": null
 },
 {
 "text": "Lo unico que se puede hacer con un buen consejo es transmitirlo. Nunca es util para uno mismo.",
@@ -2013,18 +2013,18 @@
 },
 {
 "text": "La vida no se mide por las respiraciones que tomamos, sino por los momentos que nos quitan el aliento.",
-"author": nulo
+"author": null
 },
 {
 "text": "La flor mas pequeña es un pensamiento, una vida que responde a algun rasgo del Gran Todo, del cual tienen una intuicion persistente.",
 "author": "Honore de Balzac"
 },
 {
-"text": "Considera lo dificil que es cambiarte a ti mismo y comprenderas las pocas posibilidades que tienes de tratar de cambiar a los demas".,
+"text": "Considera lo dificil que es cambiarte a ti mismo y comprenderas las pocas posibilidades que tienes de tratar de cambiar a los demas",
 "author": "Jacob Braude"
 },
 {
-"text": "Si no te conformas con nada menos que dar lo mejor de ti, te sorprendera lo que puedes lograr en tu vida".,
+"text": "Si no te conformas con nada menos que dar lo mejor de ti, te sorprendera lo que puedes lograr en tu vida",
 "author": "Vince Lombardi"
 },
 {
@@ -2048,7 +2048,7 @@
 "author": "Aristoteles"
 },
 {
-"text": "El amor nunca se pierde. Si no es correspondido, fluira de regreso y suavizara y purificara el corazon".,
+"text": "El amor nunca se pierde. Si no es correspondido, fluira de regreso y suavizara y purificara el corazon",
 "author": "Washington Irving"
 },
 {
@@ -2076,7 +2076,7 @@
 "author": "Platon"
 },
 {
-"text": "Se siempre tu mismo, expresate, ten fe en ti mismo, no salgas a buscar una personalidad exitosa y la dupliques".,
+"text": "Se siempre tu mismo, expresate, ten fe en ti mismo, no salgas a buscar una personalidad exitosa y la dupliques",
 "author": "Bruce Lee"
 },
 {
@@ -2088,15 +2088,15 @@
 "author": "Madre Teresa"
 },
 {
-"text": "Los silencios son las verdaderas conversaciones entre amigos. Lo que cuenta no es decir, sino no tener que decir nunca".,
+"text": "Los silencios son las verdaderas conversaciones entre amigos. Lo que cuenta no es decir, sino no tener que decir nunca",
 "author": "Margaret Runbeck"
 },
 {
-"text": "La clave para transformar nuestros corazones y mentes es comprender como funcionan nuestros pensamientos y emociones".,
+"text": "La clave para transformar nuestros corazones y mentes es comprender como funcionan nuestros pensamientos y emociones",
 "author": "Dalai Lama"
 },
 {
-"text": "Si tienes que decirme tus opiniones, dime en que crees. Tengo muchas dudas propias".,
+"text": "Si tienes que decirme tus opiniones, dime en que crees. Tengo muchas dudas propias",
 "author": "Johann Wolfgang von Goethe"
 },
 {
@@ -2108,12 +2108,12 @@
 "author": "Og Mandino"
 },
 {
-"text": "Nunca comprendemos lo poco que necesitamos en este mundo hasta que sabemos que lo hemos perdido".,
+"text": "Nunca comprendemos lo poco que necesitamos en este mundo hasta que sabemos que lo hemos perdido",
 "author": "James Barrie"
 },
 {
 "text": "La verdadera medida de tu riqueza es cuanto valdrias si perdieras todo tu dinero.",
-"author": nulo
+"author": null
 },
 {
 "text": "Mantener el cuerpo en buena salud es un deber... de lo contrario no podremos mantener nuestra mente fuerte y clara.",
@@ -2132,7 +2132,7 @@
 "author": "Byron Pulsifer"
 },
 {
-"text": "En el momento en que uno presta mucha atencion a cualquier cosa, incluso una brizna de hierba, se convierte en un mundo misterioso, impresionante e indescriptiblemente magnifico en si mismo".,
+"text": "En el momento en que uno presta mucha atencion a cualquier cosa, incluso una brizna de hierba, se convierte en un mundo misterioso, impresionante e indescriptiblemente magnifico en si mismo",
 "author": "Henry Miller"
 },
 {
@@ -2152,15 +2152,15 @@
 "author": "Anaïs Nin"
 },
 {
-"text": "Sin saltos de imaginacion o sueños, perdemos la emocion de las posibilidades. Soñar, despues de todo, es una forma de planificacion".,
+"text": "Sin saltos de imaginacion o sueños, perdemos la emocion de las posibilidades. Soñar, despues de todo, es una forma de planificacion",
 "author": "Gloria Steinem"
 },
 {
-"text": "La tristeza puede ser parte de la vida, pero no hay necesidad de dejar que domine toda tu vida".,
+"text": "La tristeza puede ser parte de la vida, pero no hay necesidad de dejar que domine toda tu vida",
 "author": "Byron Pulsifer"
 },
 {
-"text": "Adelantarse un poco a las condiciones es uno de los secretos de los negocios, el trailer rara vez llega lejos".,
+"text": "Adelantarse un poco a las condiciones es uno de los secretos de los negocios, el trailer rara vez llega lejos",
 "author": "Charles Schwab"
 },
 {
@@ -2172,19 +2172,19 @@
 "author": "Barbara Baron"
 },
 {
-"text": "Siempre eres libre de cambiar de opinion y elegir un futuro diferente o un pasado diferente".,
+"text": "Siempre eres libre de cambiar de opinion y elegir un futuro diferente o un pasado diferente",
 "author": "Richard Bach"
 },
 {
-"text": "No naciste ganador, y no naciste perdedor. Eres lo que te haces ser".,
+"text": "No naciste ganador, y no naciste perdedor. Eres lo que te haces ser",
 "author": "Lou Holtz"
 },
 {
-"text": "Aprecia tus visiones y tus sueños, ya que son los hijos de tu alma, los planos de tus logros finales".,
+"text": "Aprecia tus visiones y tus sueños, ya que son los hijos de tu alma, los planos de tus logros finales",
 "author": "Colina de Napoleon"
 },
 {
-"text": "Aprecia tus visiones y tus sueños, ya que son los hijos de tu alma; los planos de tus logros finales".,
+"text": "Aprecia tus visiones y tus sueños, ya que son los hijos de tu alma; los planos de tus logros finales",
 "author": "Colina de Napoleon"
 },
 {
@@ -2200,12 +2200,12 @@
 "author": "Bruce Lee"
 },
 {
-"text": "Creo que una forma de vida sencilla y sin pretensiones es lo mejor para todos, tanto para el cuerpo como para la mente".,
+"text": "Creo que una forma de vida sencilla y sin pretensiones es lo mejor para todos, tanto para el cuerpo como para la mente",
 "author": "Albert Einstein"
 },
 {
-"text": "Aunque nadie puede regresar y hacer un nuevo comienzo, cualquiera puede comenzar desde ahora y hacer un nuevo final".,
-"author": nulo
+"text": "Aunque nadie puede regresar y hacer un nuevo comienzo, cualquiera puede comenzar desde ahora y hacer un nuevo final",
+"author": null
 },
 {
 "text": "La mente lo es todo: musculo, piezas de goma. Todo lo que soy, lo soy gracias a mi mente.",
@@ -2217,10 +2217,10 @@
 },
 {
 "text": "Un amigo es alguien que entiende tu pasado, cree en tu futuro y te acepta tal como eres.",
-"author": nulo
+"author": null
 },
 {
-"text": "Una de las bendiciones de los viejos amigos es que puedes permitirte ser estupido con ellos".,
+"text": "Una de las bendiciones de los viejos amigos es que puedes permitirte ser estupido con ellos",
 "author": "Ralph Emerson"
 },
 {
@@ -2252,7 +2252,7 @@
 "author": "Lucille Ball"
 },
 {
-"text": "El pasado no tiene poder para impedir que estes presente ahora. Solo tu queja sobre el pasado puede hacer eso".,
+"text": "El pasado no tiene poder para impedir que estes presente ahora. Solo tu queja sobre el pasado puede hacer eso",
 "author": "Eckhart Tolle"
 },
 {
@@ -2264,11 +2264,11 @@
 "author": "Laurence J. Peter"
 },
 {
-"text": "No me interesa la edad. Las personas que me dicen su edad son tontas. Eres tan viejo como te sientes".,
+"text": "No me interesa la edad. Las personas que me dicen su edad son tontas. Eres tan viejo como te sientes",
 "author": "Elizabeth Arden"
 },
 {
-"text": "Encuentro esperanza en los dias mas oscuros y me concentro en los mas brillantes. No juzgo el universo".,
+"text": "Encuentro esperanza en los dias mas oscuros y me concentro en los mas brillantes. No juzgo el universo",
 "author": "Dalai Lama"
 },
 {
@@ -2292,11 +2292,11 @@
 "author": "Vernon Cooper"
 },
 {
-"text": "Un secreto del exito en la vida es que un hombre este preparado para la oportunidad cuando se presente".,
+"text": "Un secreto del exito en la vida es que un hombre este preparado para la oportunidad cuando se presente",
 "author": "Benjamin Disraeli"
 },
 {
-"text": "Las personas toman diferentes caminos en busca de satisfaccion y felicidad. El hecho de que no esten en tu camino no significa que se hayan perdido".,
+"text": "Las personas toman diferentes caminos en busca de satisfaccion y felicidad. El hecho de que no esten en tu camino no significa que se hayan perdido",
 "author": "Dalai Lama"
 },
 {
@@ -2304,7 +2304,7 @@
 "author": "Carl Jung"
 },
 {
-"text": "Solo hay dos errores que uno puede cometer en el camino hacia la verdad: no llegar hasta el final y no empezar".,
+"text": "Solo hay dos errores que uno puede cometer en el camino hacia la verdad: no llegar hasta el final y no empezar",
 "author": "Buda"
 },
 {
@@ -2312,15 +2312,15 @@
 "author": "Marco Aurelio"
 },
 {
-"text": "Rendirse no siempre significa que eres debil. A veces significa que eres lo suficientemente fuerte como para dejarlo ir".,
-"author": nulo
+"text": "Rendirse no siempre significa que eres debil. A veces significa que eres lo suficientemente fuerte como para dejarlo ir",
+"author": null
 },
 {
 "text": "Trata a las personas como si fueran lo que deberian ser y ayudalas a convertirse en lo que son capaces de ser.",
 "author": "Johann Wolfgang von Goethe"
 },
 {
-"text": "El regalo mas preciado que podemos ofrecerle a alguien es nuestra atencion. Cuando la atencion plena abrace a aquellos que amamos, floreceran como flores".,
+"text": "El regalo mas preciado que podemos ofrecerle a alguien es nuestra atencion. Cuando la atencion plena abrace a aquellos que amamos, floreceran como flores",
 "author": "Thich Nhat Hanh"
 },
 {
@@ -2340,7 +2340,7 @@
 "author": "Lao-Tse"
 },
 {
-"text": "Puedes ser lo que quieras ser. Tienes el poder dentro y te ayudaremos siempre".,
+"text": "Puedes ser lo que quieras ser. Tienes el poder dentro y te ayudaremos siempre",
 "author": "Byron Pulsifer"
 },
 {
@@ -2348,7 +2348,7 @@
 "author": "Johannes Gaertner"
 },
 {
-"text": "La sabiduria es la recompensa que obtienes por escuchar toda la vida cuando hubieras preferido hablar".,
+"text": "La sabiduria es la recompensa que obtienes por escuchar toda la vida cuando hubieras preferido hablar",
 "author": "Doug Larson"
 },
 {
@@ -2376,7 +2376,7 @@
 "author": "Thomas Edison"
 },
 {
-"text": "Cuando buscamos descubrir lo mejor de los demas, de alguna manera sacamos lo mejor de nosotros mismos".,
+"text": "Cuando buscamos descubrir lo mejor de los demas, de alguna manera sacamos lo mejor de nosotros mismos",
 "author": "William Ward"
 },
 {
@@ -2384,7 +2384,7 @@
 "author": "Michael Jordan"
 },
 {
-"texto": "Un hombre puede cumplir el objeto de su existencia haciendo una pregunta que no puede responder e intentando una tarea que no puede lograr".,
+"texto": "Un hombre puede cumplir el objeto de su existencia haciendo una pregunta que no puede responder e intentando una tarea que no puede lograr",
 "author": "Oliver Holmes"
 },
 {
@@ -2400,7 +2400,7 @@
 "author": "Pablo Picasso"
 },
 {
-"text": "Si estas caminando por el camino correcto y estas dispuesto a seguir caminando, eventualmente progresaras".,
+"text": "Si estas caminando por el camino correcto y estas dispuesto a seguir caminando, eventualmente progresaras",
 "author": "Barack Obama"
 },
 {
@@ -2408,23 +2408,23 @@
 "author": "Ivy Baker Sacerdote"
 },
 {
-"text": "Nunca pierdas una oportunidad de hacer felices a los demas, incluso si tienes que dejarlos solos para hacerlo".,
-"author": nulo
+"text": "Nunca pierdas una oportunidad de hacer felices a los demas, incluso si tienes que dejarlos solos para hacerlo",
+"author": null
 },
 {
-"text": "Dale todo lo que tengas porque nunca sabes si habra una proxima vez".,
+"text": "Dale todo lo que tengas porque nunca sabes si habra una proxima vez",
 "author": "Danielle Ingrum"
 },
 {
-"text": "Tienes que tomarlo como sucede, pero debes intentar que suceda de la forma en que quieres tomarlo".,
+"text": "Tienes que tomarlo como sucede, pero debes intentar que suceda de la forma en que quieres tomarlo",
 "author": "Proverbio aleman antiguo"
 },
 {
-"text": "Nada esta predestinado: los obstaculos de tu pasado pueden convertirse en las puertas que conducen a nuevos comienzos".,
+"text": "Nada esta predestinado: los obstaculos de tu pasado pueden convertirse en las puertas que conducen a nuevos comienzos",
 "author": "Ralph Blum"
 },
 {
-"text": "No estoy en este mundo para estar a la altura de tus expectativas y tu no estas en este mundo para estar a la altura de las mias".,
+"text": "No estoy en este mundo para estar a la altura de tus expectativas y tu no estas en este mundo para estar a la altura de las mias",
 "author": "Bruce Lee"
 },
 {
@@ -2432,19 +2432,19 @@
 "author": "Thich Nhat Hanh"
 },
 {
-"text": "No puedo imaginar que una persona se convierta en un exito si no le da a este juego de la vida todo lo que tiene".,
+"text": "No puedo imaginar que una persona se convierta en un exito si no le da a este juego de la vida todo lo que tiene",
 "author": "Walter Cronkite"
 },
 {
-"text": "La mejor manera de vivir con honor en este mundo es ser lo que pretendemos ser".,
+"text": "La mejor manera de vivir con honor en este mundo es ser lo que pretendemos ser",
 "author": "Socrates"
 },
 {
-"text": "Las condiciones de la conquista siempre son faciles. Solo tenemos que esforzarnos un tiempo, aguantar un tiempo, creer siempre y nunca retroceder".,
+"text": "Las condiciones de la conquista siempre son faciles. Solo tenemos que esforzarnos un tiempo, aguantar un tiempo, creer siempre y nunca retroceder",
 "author": "Seneca"
 },
 {
-"text": "Los grandes elementos esenciales de la felicidad son: algo que hacer, algo que amar y algo que esperar".,
+"text": "Los grandes elementos esenciales de la felicidad son: algo que hacer, algo que amar y algo que esperar",
 "author": "Chalmers"
 },
 {
@@ -2469,7 +2469,7 @@
 },
 {
 "text": "El ayer es historia. El mañana es un misterio. ¿Y el hoy? El hoy es un regalo, por eso lo llaman presente.",
-"author": nulo
+"author": null
 },
 {
 "text": "La unica manera de decir la verdad es hablar con amabilidad. Solo las palabras de un hombre amoroso pueden ser escuchadas.",
@@ -2480,7 +2480,7 @@
 "author": "Benjamin Disraeli"
 },
 {
-"text": "Solo puedes crecer si estas dispuesto a sentirte incomodo cuando intentas algo nuevo".,
+"text": "Solo puedes crecer si estas dispuesto a sentirte incomodo cuando intentas algo nuevo",
 "author": "Brian Tracy"
 },
 {
@@ -2492,15 +2492,15 @@
 "author": "Mabel Newcomber"
 },
 {
-"text": "Cuando no sabes lo que crees, todo se convierte en un argumento. Todo es discutible. Pero cuando defiendes algo, las decisiones son obvias".,
-"author": nulo
+"text": "Cuando no sabes lo que crees, todo se convierte en un argumento. Todo es discutible. Pero cuando defiendes algo, las decisiones son obvias",
+"author": null
 },
 {
 "text": "La intuicion es la supralogica que elimina todos los procesos rutinarios del pensamiento y salta directamente del problema a la respuesta.",
 "author": "Robert Graves"
 },
 {
-"text": "Siempre sucede algo en lo que realmente crees; y la creencia en algo hace que suceda".,
+"text": "Siempre sucede algo en lo que realmente crees; y la creencia en algo hace que suceda",
 "author": "Frank Wright"
 },
 {
@@ -2516,19 +2516,19 @@
 "author": "Primos Margarita"
 },
 {
-"text": "Cada sesenta segundos que pasas enojado, molesto o enojado, es un minuto completo de felicidad que nunca recuperaras".,
-"author": nulo
+"text": "Cada sesenta segundos que pasas enojado, molesto o enojado, es un minuto completo de felicidad que nunca recuperaras",
+"author": null
 },
 {
 "text": "Este mundo, despues de toda nuestra ciencia y ciencias, sigue siendo un milagro; maravilloso, inescrutable, magico y mas, para quien piense en el.",
 "author": "Thomas Carlyle"
 },
 {
-"text": "Todo gran error tiene un momento intermedio, una fraccion de segundo en el que se puede recordar y quizas remediar".,
+"text": "Todo gran error tiene un momento intermedio, una fraccion de segundo en el que se puede recordar y quizas remediar",
 "author": "Dolar Perla"
 },
 {
-"text": "Puedes adoptar la actitud de que no hay nada que puedas hacer, o puedes ver el desafio como tu llamado a la accion".,
+"text": "Puedes adoptar la actitud de que no hay nada que puedas hacer, o puedes ver el desafio como tu llamado a la accion",
 "author": "Catherine Pulsifer"
 },
 {
@@ -2536,7 +2536,7 @@
 "author": "Alfred Tennyson"
 },
 {
-"text": "Nunca dudes de que un pequeño grupo de personas reflexivas y comprometidas pueden cambiar el mundo. De hecho, es lo unico que lo ha hecho".,
+"text": "Nunca dudes de que un pequeño grupo de personas reflexivas y comprometidas pueden cambiar el mundo. De hecho, es lo unico que lo ha hecho",
 "author": "Margaret Mead"
 },
 {
@@ -2544,7 +2544,7 @@
 "author": "Ovidio"
 },
 {
-"text": "Obtienes tranquilidad no pensando en ello o imaginandolo, sino aquietando y relajando la mente inquieta".,
+"text": "Obtienes tranquilidad no pensando en ello o imaginandolo, sino aquietando y relajando la mente inquieta",
 "author": "Remez Sasson"
 },
 {
@@ -2552,19 +2552,19 @@
 "author": "Richard Bach"
 },
 {
-"text": "Cuando te contentas con ser simplemente tu mismo y no comparas ni compites, todos te respetaran".,
+"text": "Cuando te contentas con ser simplemente tu mismo y no comparas ni compites, todos te respetaran",
 "author": "Lao Tse"
 },
 {
-"text": "Cuando comienzas a tocar tu corazon o dejas que tu corazon sea tocado, comienzas a descubrir que no tiene fondo".,
+"text": "Cuando comienzas a tocar tu corazon o dejas que tu corazon sea tocado, comienzas a descubrir que no tiene fondo",
 "author": "Pema Chodron"
 },
 {
-"text": "Si amas a alguien, dejalo libre. Si regresa, es tuyo; si no, nunca lo fue".,
+"text": "Si amas a alguien, dejalo libre. Si regresa, es tuyo; si no, nunca lo fue",
 "author": "Richard Bach"
 },
 {
-"text": "La sabiduria es saber que hacer a continuacion; la habilidad es saber como hacerlo y la virtud es hacerlo".,
+"text": "La sabiduria es saber que hacer a continuacion; la habilidad es saber como hacerlo y la virtud es hacerlo",
 "author": "David Jordan"
 },
 {
@@ -2580,7 +2580,7 @@
 "author": "oscar Wilde"
 },
 {
-"text": "Para lograr grandes cosas, no solo debemos actuar, sino tambien soñar; no solo planificar, sino tambien creer".,
+"text": "Para lograr grandes cosas, no solo debemos actuar, sino tambien soñar; no solo planificar, sino tambien creer",
 "author": "Anatole Francia"
 },
 {
@@ -2588,12 +2588,12 @@
 "author": "Thomas Edison"
 },
 {
-"text": "Si pudieramos aprender a querernos a nosotros mismos, aunque sea un poco, tal vez nuestras crueldades e ira se desvanecerian".,
+"text": "Si pudieramos aprender a querernos a nosotros mismos, aunque sea un poco, tal vez nuestras crueldades e ira se desvanecerian",
 "author": "John Steinbeck"
 },
 {
 "text": "Si miramos en la direccion correcta, todo lo que tenemos que hacer es seguir caminando.",
-"author": nulo
+"author": null
 },
 {
 "text": "Recuerda siempre que no solo tienes el derecho de ser un individuo, tienes la obligacion de serlo.",
@@ -2604,11 +2604,11 @@
 "author": "Denis Waitley"
 },
 {
-"text": "Si buscas la verdad, no buscaras la victoria por medios deshonrosos, y si encuentras la verdad, seras invencible".,
+"text": "Si buscas la verdad, no buscaras la victoria por medios deshonrosos, y si encuentras la verdad, seras invencible",
 "author": "Epicteto"
 },
 {
-"text": "A traves de la meditacion y prestando toda la atencion a una cosa a la vez, podemos aprender a dirigir la atencion hacia donde elijamos".,
+"text": "A traves de la meditacion y prestando toda la atencion a una cosa a la vez, podemos aprender a dirigir la atencion hacia donde elijamos",
 "author": "Eknath Easwaran"
 },
 {
@@ -2620,11 +2620,11 @@
 "author": "Marco Aurelio"
 },
 {
-"text": "La verdad es que siempre sabes que hacer. La parte dificil es hacerlo".,
+"text": "La verdad es que siempre sabes que hacer. La parte dificil es hacerlo",
 "author": "Norman Schwarzkopf"
 },
 {
-"text": "Algunas personas prosperan con cambios enormes y dramaticos. Algunas personas prefieren la ruta lenta y constante. Haz lo que sea correcto para ti".,
+"text": "Algunas personas prosperan con cambios enormes y dramaticos. Algunas personas prefieren la ruta lenta y constante. Haz lo que sea correcto para ti",
 "author": "Julie Morgenstern"
 },
 {
@@ -2644,7 +2644,7 @@
 "author": "Abraham Lincoln"
 },
 {
-"text": "La valentia no se trata de tomar riesgos sin saberlo, sino de poner tu propio ser frente a desafios que otros tal vez no puedan".,
+"text": "La valentia no se trata de tomar riesgos sin saberlo, sino de poner tu propio ser frente a desafios que otros tal vez no puedan",
 "author": "Byron Pulsifer"
 },
 {
@@ -2665,7 +2665,7 @@
 },
 {
 "text": "La paz mental no es la ausencia de conflictos en la vida, sino la capacidad de afrontarlos.",
-"author": nulo
+"author": null
 },
 {
 "text": "Enfrenta tus deficiencias y reconocelas; pero no dejes que te dominen. Deja que te enseñen paciencia, dulzura, perspicacia.",
@@ -2676,7 +2676,7 @@
 "author": "John Kennedy"
 },
 {
-"text": "Tienes poder sobre tu mente, no sobre los eventos externos. Date cuenta de esto y encontraras la fuerza".,
+"text": "Tienes poder sobre tu mente, no sobre los eventos externos. Date cuenta de esto y encontraras la fuerza",
 "author": "Marco Aurelio"
 },
 {
@@ -2684,7 +2684,7 @@
 "author": "Luis Pasteur"
 },
 {
-"text": "Somos lo que pensamos. Todo lo que somos surge de nuestros pensamientos. Con nuestros pensamientos, hacemos el mundo".,
+"text": "Somos lo que pensamos. Todo lo que somos surge de nuestros pensamientos. Con nuestros pensamientos, hacemos el mundo",
 "author": "Buda"
 },
 {
@@ -2696,11 +2696,11 @@
 "author": "Wayne Dyer"
 },
 {
-"text": "Lo que importa es el valor que hemos creado en nuestras vidas, las personas a las que hemos hecho felices y cuanto hemos crecido como personas".,
+"text": "Lo que importa es el valor que hemos creado en nuestras vidas, las personas a las que hemos hecho felices y cuanto hemos crecido como personas",
 "author": "Daisaku Ikeda"
 },
 {
-"text": "Cuando te sientas ofendido por la culpa de alguien, vuelvete hacia ti mismo y estudia tus propias fallas. Entonces olvidaras tu ira".,
+"text": "Cuando te sientas ofendido por la culpa de alguien, vuelvete hacia ti mismo y estudia tus propias fallas. Entonces olvidaras tu ira",
 "author": "Epicteto"
 },
 {
@@ -2720,11 +2720,11 @@
 "author": "Franklin Roosevelt"
 },
 {
-"text": "No puedes obligarte a sentir algo que no sientes, pero puedes obligarte a hacer lo correcto a pesar de tus sentimientos".,
+"text": "No puedes obligarte a sentir algo que no sientes, pero puedes obligarte a hacer lo correcto a pesar de tus sentimientos",
 "author": "Dolar Perla"
 },
 {
-"text": "Aquellos que son bendecidos con el mayor talento no necesariamente superan a los demas. Son las personas con seguimiento las que sobresalen".,
+"text": "Aquellos que son bendecidos con el mayor talento no necesariamente superan a los demas. Son las personas con seguimiento las que sobresalen",
 "author": "Mary Kay Ash"
 },
 {
@@ -2748,7 +2748,7 @@
 "author": "Byron Pulsifer"
 },
 {
-"text": "Nunca hagas cosas que otros pueden hacer y haran, si hay cosas que otros no pueden hacer o no haran".,
+"text": "Nunca hagas cosas que otros pueden hacer y haran, si hay cosas que otros no pueden hacer o no haran",
 "author": "Amelia Earhart"
 },
 {
@@ -2764,11 +2764,11 @@
 "author": "Jose Roux"
 },
 {
-"text": "No se supone que los desafios de la vida te paralicen, se supone que te ayuden a descubrir quien eres".,
+"text": "No se supone que los desafios de la vida te paralicen, se supone que te ayuden a descubrir quien eres",
 "author": "Bernice Reagon"
 },
 {
-"text": "La mejor manera de vivir con honor en este mundo es ser lo que pretendemos ser".,
+"text": "La mejor manera de vivir con honor en este mundo es ser lo que pretendemos ser",
 "author": "Socrates"
 },
 {
@@ -2780,7 +2780,7 @@
 "author": "Albert Einstein"
 },
 {
-"text": "No puedes crear en el vacio. La vida te da el material y los sueños pueden impulsar nuevos comienzos".,
+"text": "No puedes crear en el vacio. La vida te da el material y los sueños pueden impulsar nuevos comienzos",
 "author": "Byron Pulsifer"
 },
 {
@@ -2788,7 +2788,7 @@
 "author": "Buda"
 },
 {
-"text": "La persona que vive la vida plenamente, brillando con la energia de la vida, es la persona que vive una vida exitosa".,
+"text": "La persona que vive la vida plenamente, brillando con la energia de la vida, es la persona que vive una vida exitosa",
 "author": "Daisaku Ikeda"
 },
 {
@@ -2821,7 +2821,7 @@
 },
 {
 "text": "Un obstaculo puede ser un peldaño o una piedra de tropiezo.",
-"author": nulo
+"author": null
 },
 {
 "text": "El dolor pasa, pero la belleza permanece.",
@@ -2836,7 +2836,7 @@
 "author": "Rita Mae Brown"
 },
 {
-"text": "Tu vision de la vida es un reflejo directo de cuanto te gustas a ti mismo".,
+"text": "Tu vision de la vida es un reflejo directo de cuanto te gustas a ti mismo",
 "author": "Lululemon"
 },
 {
@@ -2945,7 +2945,7 @@
 },
 {
 "text": "Nunca he visto una cara sonriente que no fuera hermosa.",
-"author": nulo
+"author": null
 },
 {
 "text": "En todas las cosas de la naturaleza hay algo de maravilloso.",
@@ -2964,7 +2964,7 @@
 "author": "Confucio"
 },
 {
-"text": "Es posible que recuerdes que nada puede traerte el exito excepto tu mismo".,
+"text": "Es posible que recuerdes que nada puede traerte el exito excepto tu mismo",
 "author": "Colina de Napoleon"
 },
 {
@@ -2981,7 +2981,7 @@
 },
 {
 "text": "La amabilidad es la mayor sabiduria.",
-"author": nulo
+"author": null
 },
 {
 "text": "La accion eliminara las dudas que la teoria no puede resolver.",
@@ -2989,7 +2989,7 @@
 },
 {
 "text": "No te pierdas todos los hermosos colores del arcoiris buscando esa olla de oro.",
-"author": nulo
+"author": null
 },
 {
 "text": "Tu gran oportunidad puede estar justo donde estas ahora.",
@@ -3017,11 +3017,11 @@
 },
 {
 "text": "No te ahogas al caer al agua. Te ahogas al quedarte alli.",
-"author": nulo
+"author": null
 },
 {
-"text": "Nunca tengas miedo de intentarlo, recuerda... Los aficionados construyeron el arca, los profesionales construyeron el Titanic".,
-"author": nulo
+"text": "Nunca tengas miedo de intentarlo, recuerda... Los aficionados construyeron el arca, los profesionales construyeron el Titanic",
+"author": null
 },
 {
 "text": "La correccion hace mucho, pero el estimulo hace mas.",
@@ -3032,7 +3032,7 @@
 "author": "Epicteto"
 },
 {
-"text": "La mayor aventura que puedes emprender es vivir la vida de tus sueños".,
+"text": "La mayor aventura que puedes emprender es vivir la vida de tus sueños",
 "author": "Oprah Winfrey"
 },
 {
@@ -3136,7 +3136,7 @@
 "author": "Tomas Eliot"
 },
 {
-"text": "Siempre que vayas a pensar de todos modos, piensa en grande".,
+"text": "Siempre que vayas a pensar de todos modos, piensa en grande",
 "author": "Donald Trump"
 },
 {
@@ -3168,7 +3168,7 @@
 "author": "Maria Wollstonecraft"
 },
 {
-"text": "A la larga, no recibimos mas de lo que hemos estado dispuestos a arriesgarnos a dar".,
+"text": "A la larga, no recibimos mas de lo que hemos estado dispuestos a arriesgarnos a dar",
 "author": "Sheldon Kopp"
 },
 {
@@ -3180,7 +3180,7 @@
 "author": "Cartera Paige"
 },
 {
-"text": "Mira hacia el pasado, con sus imperios cambiantes que surgieron y cayeron, y tambien podras prever el futuro".,
+"text": "Mira hacia el pasado, con sus imperios cambiantes que surgieron y cayeron, y tambien podras prever el futuro",
 "author": "Marco Aurelio"
 },
 {
@@ -3196,15 +3196,15 @@
 "author": "Blaise Pascal"
 },
 {
-"text": "La felicidad es una puesta de sol sueca, esta ahi para todos, pero la mayoria de nosotros miramos hacia otro lado y la perdemos".,
+"text": "La felicidad es una puesta de sol sueca, esta ahi para todos, pero la mayoria de nosotros miramos hacia otro lado y la perdemos",
 "author": "Mark Twain"
 },
 {
 "text": "Una sonrisa es una luz en la ventana de tu cara para mostrar que tu corazon esta en casa.",
-"author": nulo
+"author": null
 },
 {
-"text": "Espera la primavera como un momento en el que puedes comenzar a ver lo que la naturaleza tiene para ofrecerte una vez mas".,
+"text": "Espera la primavera como un momento en el que puedes comenzar a ver lo que la naturaleza tiene para ofrecerte una vez mas",
 "author": "Byron Pulsifer"
 },
 {
@@ -3225,18 +3225,18 @@
 },
 {
 "text": "Tal vez solo seas alguien en el mundo, pero para alguien mas, puedes ser el mundo.",
-"author": nulo
+"author": null
 },
 {
 "text": "Cada artista moja su pincel en su propia alma y pinta su propia naturaleza en sus cuadros.",
 "author": "Henry Ward Beecher"
 },
 {
-"text": "Si tomas cada desafio paso a paso, con fe en cada paso, tu fuerza y ​​comprension aumentaran".,
+"text": "Si tomas cada desafio paso a paso, con fe en cada paso, tu fuerza y ​​comprension aumentaran",
 "author": "James Fausto"
 },
 {
-"text": "La felicidad no se puede viajar, poseer, ganar, usar o consumir. La felicidad es la experiencia espiritual de vivir cada minuto con amor, gracia y gratitud".,
+"text": "La felicidad no se puede viajar, poseer, ganar, usar o consumir. La felicidad es la experiencia espiritual de vivir cada minuto con amor, gracia y gratitud",
 "author": "Denis Waitley"
 },
 {
@@ -3244,7 +3244,7 @@
 "author": "Dicho jasidico"
 },
 {
-"text": "Cuando dejamos de pensar principalmente en nosotros mismos y en nuestra propia conservacion, experimentamos una transformacion de conciencia verdaderamente heroica".,
+"text": "Cuando dejamos de pensar principalmente en nosotros mismos y en nuestra propia conservacion, experimentamos una transformacion de conciencia verdaderamente heroica",
 "author": "Joseph Campbell"
 },
 {
@@ -3252,11 +3252,11 @@
 "author": "Peter Drucker"
 },
 {
-"text": "No se supone que los desafios de la vida te paralicen, se supone que te ayuden a descubrir quien eres".,
+"text": "No se supone que los desafios de la vida te paralicen, se supone que te ayuden a descubrir quien eres",
 "author": "Bernice Reagon"
 },
 {
-"text": "Hay una cosa que debes aprender sobre nuestro movimiento. Tres personas son mejores que ninguna".,
+"text": "Hay una cosa que debes aprender sobre nuestro movimiento. Tres personas son mejores que ninguna",
 "author": "Fannie Hamer"
 },
 {
@@ -3280,7 +3280,7 @@
 "author": "Babatunde Olatunji"
 },
 {
-"text": "La forma en que nos comunicamos con los demas y con nosotros mismos determina en ultima instancia la calidad de nuestras vidas".,
+"text": "La forma en que nos comunicamos con los demas y con nosotros mismos determina en ultima instancia la calidad de nuestras vidas",
 "author": "Tony Robbins"
 },
 {
@@ -3293,18 +3293,18 @@
 },
 {
 "text": "Una curva en el camino no es el final del camino... a menos que no puedas dar el giro.",
-"author": nulo
+"author": null
 },
 {
 "text": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un habito.",
 "author": "Aristoteles"
 },
 {
-"text": "Vivir en riesgo es saltar del acantilado y construir tus alas en el camino hacia abajo".,
+"text": "Vivir en riesgo es saltar del acantilado y construir tus alas en el camino hacia abajo",
 "author": "Ray Bradbury"
 },
 {
-"text": "En lo mas profundo del invierno, finalmente aprendi que habia dentro de mi un verano invencible".,
+"text": "En lo mas profundo del invierno, finalmente aprendi que habia dentro de mi un verano invencible",
 "author": "Albert Camus"
 },
 {
@@ -3321,7 +3321,7 @@
 },
 {
 "text": "El que hace una pregunta es un tonto durante cinco minutos; el que no hace una pregunta sigue siendo un tonto para siempre.",
-"author": nulo
+"author": null
 },
 {
 "text": "El poder de la comprension intuitiva te protegera del daño hasta el final de tus dias.",
@@ -3348,7 +3348,7 @@
 "author": "Pema Chodron"
 },
 {
-"text": "Las personas crecen a traves de la experiencia si enfrentan la vida con honestidad y valentia. Asi es como se construye el caracter".,
+"text": "Las personas crecen a traves de la experiencia si enfrentan la vida con honestidad y valentia. Asi es como se construye el caracter",
 "author": "Eleanor Roosevelt"
 },
 {
@@ -3360,19 +3360,19 @@
 "author": "angela Schwindt"
 },
 {
-"text": "Cuando bailas, tu proposito no es llegar a un lugar determinado en la pista. Es disfrutar cada paso del camino".,
+"text": "Cuando bailas, tu proposito no es llegar a un lugar determinado en la pista. Es disfrutar cada paso del camino",
 "author": "Wayne Dyer"
 },
 {
-"text": "El Creador no te ha dado el deseo de hacer lo que no tienes la capacidad de hacer".,
+"text": "El Creador no te ha dado el deseo de hacer lo que no tienes la capacidad de hacer",
 "author": "Orison Marden"
 },
 {
-"text": "Es tan simple ser sabio. Solo piensa en algo estupido que decir y luego no lo digas".,
+"text": "Es tan simple ser sabio. Solo piensa en algo estupido que decir y luego no lo digas",
 "author": "Sam Levenson"
 },
 {
-"text": "Considera que los pensamientos y las emociones negativas no solo destruyen nuestra experiencia de paz, sino que tambien socavan nuestra salud".,
+"text": "Considera que los pensamientos y las emociones negativas no solo destruyen nuestra experiencia de paz, sino que tambien socavan nuestra salud",
 "author": "Dalai Lama"
 },
 {
@@ -3384,11 +3384,11 @@
 "author": "Buda"
 },
 {
-"text": "En el momento en que uno presta mucha atencion a algo, se convierte en un mundo misterioso, impresionante e indescriptiblemente magnifico en si mismo".,
+"text": "En el momento en que uno presta mucha atencion a algo, se convierte en un mundo misterioso, impresionante e indescriptiblemente magnifico en si mismo",
 "author": "Henry Miller"
 },
 {
-"text": "La felicidad es cuando lo que piensas, lo que dices y lo que haces estan en armonia".,
+"text": "La felicidad es cuando lo que piensas, lo que dices y lo que haces estan en armonia",
 "author": "Mohandas Gandhi"
 },
 {
@@ -3396,27 +3396,27 @@
 "author": "Dalai Lama"
 },
 {
-"text": "El coraje es descubrir que es posible que no ganes e intentarlo cuando sabes que puedes perder".,
-"author": nulo
+"text": "El coraje es descubrir que es posible que no ganes e intentarlo cuando sabes que puedes perder",
+"author": null
 },
 {
-"text": "Ser considerado y amable solo lleva unos segundos en comparacion con el dolor eterno que causa un gesto grosero".,
+"text": "Ser considerado y amable solo lleva unos segundos en comparacion con el dolor eterno que causa un gesto grosero",
 "author": "Byron Pulsifer"
 },
 {
-"text": "El proposito del aprendizaje es el crecimiento y nuestras mentes, a diferencia de nuestros cuerpos, pueden seguir creciendo mientras vivimos".,
+"text": "El proposito del aprendizaje es el crecimiento y nuestras mentes, a diferencia de nuestros cuerpos, pueden seguir creciendo mientras vivimos",
 "author": "Mortimer Adler"
 },
 {
-"text": "Cuando te des cuenta de lo perfecto que es todo, inclinaras la cabeza hacia atras y te reiras del cielo".,
+"text": "Cuando te des cuenta de lo perfecto que es todo, inclinaras la cabeza hacia atras y te reiras del cielo",
 "author": "Buda"
 },
 {
-"text": "Para cada falla, hay un curso de accion alternativo. Solo tienes que encontrarlo. Cuando llegues a un obstaculo, toma un desvio".,
+"text": "Para cada falla, hay un curso de accion alternativo. Solo tienes que encontrarlo. Cuando llegues a un obstaculo, toma un desvio",
 "author": "Mary Kay Ash"
 },
 {
-"text": "Es sorprendente lo que un hombre puede hacer cuando tiene que hacerlo y lo poco que la mayoria de los hombres hacen cuando no tienen que hacerlo".,
+"text": "Es sorprendente lo que un hombre puede hacer cuando tiene que hacerlo y lo poco que la mayoria de los hombres hacen cuando no tienen que hacerlo",
 "author": "Walter Linn"
 },
 {
@@ -3460,7 +3460,7 @@
 "author": "Lou Holtz"
 },
 {
-"text": "No te avergüences de tus errores. Nada puede enseñarnos mejor que nuestra comprension de ellos. Esta es una de las mejores formas de autoeducacion".,
+"text": "No te avergüences de tus errores. Nada puede enseñarnos mejor que nuestra comprension de ellos. Esta es una de las mejores formas de autoeducacion",
 "author": "Thomas Carlyle"
 },
 {
@@ -3468,11 +3468,11 @@
 "author": "Buda"
 },
 {
-"text": "No me importa tanto lo que soy para los demas como lo que soy para mi mismo. Sere rico por mi mismo, y no por pedir prestado".,
+"text": "No me importa tanto lo que soy para los demas como lo que soy para mi mismo. Sere rico por mi mismo, y no por pedir prestado",
 "author": "Michel de Montaigne"
 },
 {
-"text": "Sabe que, aunque en el esquema eterno de las cosas eres pequeño, tambien eres unico e insustituible, como lo son todos tus semejantes en todas partes del mundo".,
+"text": "Sabe que, aunque en el esquema eterno de las cosas eres pequeño, tambien eres unico e insustituible, como lo son todos tus semejantes en todas partes del mundo",
 "author": "Margaret Laurence"
 },
 {
@@ -3480,7 +3480,7 @@
 "author": "Napoleon Bonaparte"
 },
 {
-"text": "Si sueltas un poco, tendras un poco de paz. Si sueltas mucho, tendras mucha paz".,
+"text": "Si sueltas un poco, tendras un poco de paz. Si sueltas mucho, tendras mucha paz",
 "author": "Ajahn Chah"
 },
 {
@@ -3488,7 +3488,7 @@
 "author": "Dalai Lama"
 },
 {
-"text": "El espiritu, la voluntad de ganar y la voluntad de sobresalir son las cosas que perduran. Estas cualidades son mucho mas importantes que los eventos que ocurren".,
+"text": "El espiritu, la voluntad de ganar y la voluntad de sobresalir son las cosas que perduran. Estas cualidades son mucho mas importantes que los eventos que ocurren",
 "author": "Vicente Lombardi"
 },
 {
@@ -3508,7 +3508,7 @@
 "author": "Byron Pulsifer"
 },
 {
-"text": "Para comprender el corazon y la mente de una persona, no mires lo que ya ha logrado, sino lo que aspira a hacer".,
+"text": "Para comprender el corazon y la mente de una persona, no mires lo que ya ha logrado, sino lo que aspira a hacer",
 "author": "Kahlil Gibran"
 },
 {
@@ -3516,11 +3516,11 @@
 "author": "Bernard Shaw"
 },
 {
-"text": "La imaginacion es mas importante que el conocimiento. Mientras que el conocimiento define todo lo que sabemos y entendemos actualmente, la imaginacion apunta a todo lo que aun podriamos descubrir y crear".,
+"text": "La imaginacion es mas importante que el conocimiento. Mientras que el conocimiento define todo lo que sabemos y entendemos actualmente, la imaginacion apunta a todo lo que aun podriamos descubrir y crear",
 "author": "Albert Einstein"
 },
 {
-"text": "Cuando veas a una buena persona, piensa en volverte como el. Cuando veas a alguien no tan bueno, reflexiona sobre tus propios puntos debiles".,
+"text": "Cuando veas a una buena persona, piensa en volverte como el. Cuando veas a alguien no tan bueno, reflexiona sobre tus propios puntos debiles",
 "author": "Confucio"
 },
 {
@@ -3532,7 +3532,7 @@
 "author": "Dale Carnegie"
 },
 {
-"text": "Puedes decir que soy un soñador, pero no soy el unico. Espero que algun dia te unas a nosotros y el mundo vivira como uno solo".,
+"text": "Puedes decir que soy un soñador, pero no soy el unico. Espero que algun dia te unas a nosotros y el mundo vivira como uno solo",
 "author": "John Lennon"
 },
 {
@@ -3544,15 +3544,15 @@
 "author": "Buda"
 },
 {
-"text": "En el cielo, no hay distincion entre el este y el oeste; las personas crean distinciones a partir de sus propias mentes y luego creen que son ciertas".,
+"text": "En el cielo, no hay distincion entre el este y el oeste; las personas crean distinciones a partir de sus propias mentes y luego creen que son ciertas",
 "author": "Buda"
 },
 {
-"text": "No puedes cambiar nada en tu vida solo con la intencion, que puede convertirse en una esperanza ocasional y diluida de que llegaras al mañana. La intencion sin accion es inutil".,
+"text": "No puedes cambiar nada en tu vida solo con la intencion, que puede convertirse en una esperanza ocasional y diluida de que llegaras al mañana. La intencion sin accion es inutil",
 "author": "Carolina Myss"
 },
 {
-"text": "Antes de que puedas inspirar con emocion, debes sentirte abrumado por ella. Antes de que puedas mover sus lagrimas, las tuyas deben fluir. Para convencerlos, debes creer tu mismo".,
+"text": "Antes de que puedas inspirar con emocion, debes sentirte abrumado por ella. Antes de que puedas mover sus lagrimas, las tuyas deben fluir. Para convencerlos, debes creer tu mismo",
 "author": "Winston Churchill"
 },
 {
@@ -3568,11 +3568,11 @@
 "author": "Dolar Perla"
 },
 {
-"text": "Cuando conozcas a alguien mejor que tu, dirige tus pensamientos para convertirte en su igual. Cuando conozcas a alguien que no sea tan bueno como tu, mira en tu interior y examinate a ti mismo".,
+"text": "Cuando conozcas a alguien mejor que tu, dirige tus pensamientos para convertirte en su igual. Cuando conozcas a alguien que no sea tan bueno como tu, mira en tu interior y examinate a ti mismo",
 "author": "Confucio"
 },
 {
-"text": "Debemos superar la nocion de que debemos ser regulares. Te roba la oportunidad de ser extraordinario y te lleva a lo mediocre".,
+"text": "Debemos superar la nocion de que debemos ser regulares. Te roba la oportunidad de ser extraordinario y te lleva a lo mediocre",
 "author": "Uta Hagen"
 },
 {
@@ -3592,11 +3592,11 @@
 "author": "Abraham Lincoln"
 },
 {
-"text": "Al dejarlo ir, todo se hace. El mundo lo ganan aquellos que lo dejan ir. Pero cuando lo intentas y lo intentas. El mundo esta mas alla de ganar".,
+"text": "Al dejarlo ir, todo se hace. El mundo lo ganan aquellos que lo dejan ir. Pero cuando lo intentas y lo intentas. El mundo esta mas alla de ganar",
 "author": "Lao Tse"
 },
 {
-"text": "Soy como una estrella fugaz que finalmente ha encontrado su lugar junto a otra en una hermosa constelacion, donde brillaremos en los cielos para siempre".,
+"text": "Soy como una estrella fugaz que finalmente ha encontrado su lugar junto a otra en una hermosa constelacion, donde brillaremos en los cielos para siempre",
 "author": "Amy Tan"
 },
 {
@@ -3604,11 +3604,11 @@
 "author": "Epicteto"
 },
 {
-"text": "No somos animales. No somos producto de lo que nos sucedio en el pasado. Tenemos el poder de elegir".,
+"text": "No somos animales. No somos producto de lo que nos sucedio en el pasado. Tenemos el poder de elegir",
 "author": "Stephen Covey"
 },
 {
-"text": "La forma mas peligrosa de perder el tiempo no es gastarlo divirtiendose, sino gastarlo haciendo un trabajo falso. Cuando pasas el tiempo divirtiendote, sabes que estas siendo indulgente contigo mismo".,
+"text": "La forma mas peligrosa de perder el tiempo no es gastarlo divirtiendose, sino gastarlo haciendo un trabajo falso. Cuando pasas el tiempo divirtiendote, sabes que estas siendo indulgente contigo mismo",
 "author": "Paul Graham"
 },
 {
@@ -3616,7 +3616,7 @@
 "author": "Buda"
 },
 {
-"text": "Muchas veces las personas miran el lado negativo de lo que sienten que no pueden hacer. Yo siempre miro el lado positivo de lo que puedo hacer".,
+"text": "Muchas veces las personas miran el lado negativo de lo que sienten que no pueden hacer. Yo siempre miro el lado positivo de lo que puedo hacer",
 "author": "Chuck Norris"
 },
 {
@@ -3640,11 +3640,11 @@
 "author": "Frederick Douglass"
 },
 {
-"text": "Ningun pesimista descubrio jamas los secretos de las estrellas, o navego a una tierra inexplorada, o abrio un nuevo cielo para el espiritu humano".,
+"text": "Ningun pesimista descubrio jamas los secretos de las estrellas, o navego a una tierra inexplorada, o abrio un nuevo cielo para el espiritu humano",
 "author": "Helen Keller"
 },
 {
-"text": "Cuando te levantes por la mañana, piensa en el precioso privilegio de estar vivo para respirar, pensar, disfrutar, amar".,
+"text": "Cuando te levantes por la mañana, piensa en el precioso privilegio de estar vivo para respirar, pensar, disfrutar, amar",
 "author": "Marco Aurelio"
 },
 {
@@ -3656,7 +3656,7 @@
 "author": "Oprah Winfrey"
 },
 {
-"text": "Debes entrenar tu intuicion, debes confiar en la pequeña voz dentro de ti que te dice exactamente que decir, que decidir".,
+"text": "Debes entrenar tu intuicion, debes confiar en la pequeña voz dentro de ti que te dice exactamente que decir, que decidir",
 "author": "Ingrid Bergman"
 },
 {
@@ -3676,15 +3676,15 @@
 "author": "Ana Frank"
 },
 {
-"text": "La adversidad no esta en tu contra para que fracases; la adversidad es una forma de construir tu caracter para que puedas tener exito una y otra vez a traves de la perseverancia".,
+"text": "La adversidad no esta en tu contra para que fracases; la adversidad es una forma de construir tu caracter para que puedas tener exito una y otra vez a traves de la perseverancia",
 "author": "Byron Pulsifer"
 },
 {
-"text": "Si te rompes el cuello, si no tienes nada para comer, si tu casa esta en llamas, entonces tienes un problema. Todo lo demas son inconvenientes".,
+"text": "Si te rompes el cuello, si no tienes nada para comer, si tu casa esta en llamas, entonces tienes un problema. Todo lo demas son inconvenientes",
 "author": "Robert Fulghum"
 },
 {
-"text": "El exito no es la clave de la felicidad. La felicidad es la clave del exito. Si amas lo que haces, tendras exito".,
+"text": "El exito no es la clave de la felicidad. La felicidad es la clave del exito. Si amas lo que haces, tendras exito",
 "author": "Albert Schweitzer"
 },
 {
@@ -3692,7 +3692,7 @@
 "author": "Albert Einstein"
 },
 {
-"text": "Mi consejo para ti es que no preguntes por que o donde, sino que simplemente disfrutes tu helado mientras esta en tu plato, esa es mi filosofia".,
+"text": "Mi consejo para ti es que no preguntes por que o donde, sino que simplemente disfrutes tu helado mientras esta en tu plato, esa es mi filosofia",
 "author": "Thornton Wilder"
 },
 {
@@ -3704,7 +3704,7 @@
 "author": "Lao Tse"
 },
 {
-"text": "Cualquier cosa que realmente quieras, puedes lograrla, si realmente lo persigues".,
+"text": "Cualquier cosa que realmente quieras, puedes lograrla, si realmente lo persigues",
 "author": "Wayne Dyer"
 },
 {
@@ -3780,7 +3780,7 @@
 "author": "Carl Jung"
 },
 {
-"text": "Cuando el destino nos de un limon, intentemos hacer limonada".,
+"text": "Cuando el destino nos de un limon, intentemos hacer limonada",
 "author": "Dale Carnegie"
 },
 {
@@ -3792,16 +3792,16 @@
 "author": "Chanakya"
 },
 {
-"text": "El exito es obtener lo que quieres. La felicidad es querer lo que obtienes".,
+"text": "El exito es obtener lo que quieres. La felicidad es querer lo que obtienes",
 "author": "Dale Carnegie"
 },
 {
-"text": "La verdad no se trata solo de lo que realmente sucede, sino mas bien de como se interpreta lo que sucedio".,
+"text": "La verdad no se trata solo de lo que realmente sucede, sino mas bien de como se interpreta lo que sucedio",
 "author": "Byron Pulsifer"
 },
 {
 "text": "Un buen descanso es la mitad del trabajo.",
-"author": nulo
+"author": null
 },
 {
 "text": "No juzgues cada dia por la cosecha que cosechas, sino por las semillas que plantas.",
@@ -3812,7 +3812,7 @@
 "author": "Demostenes"
 },
 {
-"text": "Ser evaluado es bueno. La vida desafiada puede ser el mejor terapeuta".,
+"text": "Ser evaluado es bueno. La vida desafiada puede ser el mejor terapeuta",
 "author": "Gail Sheehy"
 },
 {
@@ -3852,7 +3852,7 @@
 "author": "Albert Einstein"
 },
 {
-"text": "El verdadero exito es encontrar el trabajo de tu vida en el trabajo que amas".,
+"text": "El verdadero exito es encontrar el trabajo de tu vida en el trabajo que amas",
 "author": "David McCullough"
 },
 {
@@ -3861,7 +3861,7 @@
 },
 {
 "text": "Todas las flores de todos los mañanas estan en las semillas de hoy.",
-"author": nulo
+"author": null
 },
 {
 "text": "Tu espacio sagrado es donde puedes encontrarte una y otra vez.",
@@ -3925,7 +3925,7 @@
 },
 {
 "text": "Un hombre no esta donde vive sino donde ama.",
-"author": nulo
+"author": null
 },
 {
 "text": "El precio de la grandeza es la responsabilidad.",
@@ -3936,12 +3936,12 @@
 "author": "Paul Tillich"
 },
 {
-"text": "Tu mente respondera la mayoria de las preguntas si aprendes a relajarte y esperar la respuesta".,
+"text": "Tu mente respondera la mayoria de las preguntas si aprendes a relajarte y esperar la respuesta",
 "author": "William Burroughs"
 },
 {
 "text": "El mundo no te pasa a ti, te pasa a ti.",
-"author": nulo
+"author": null
 },
 {
 "text": "No podemos resolver nuestros problemas con el mismo pensamiento que usamos cuando los creamos.",
@@ -3949,7 +3949,7 @@
 },
 {
 "text": "Mas poderoso que la voluntad de ganar es el coraje de comenzar.",
-"author": nulo
+"author": null
 },
 {
 "text": "Aprender es descubrir lo que ya sabes.",
@@ -4012,7 +4012,7 @@
 "author": "Charles Perkhurst"
 },
 {
-"text": "Solo aquellos que se atreven a fallar mucho pueden lograr algo grande".,
+"text": "Solo aquellos que se atreven a fallar mucho pueden lograr algo grande",
 "author": "Robert Kennedy"
 },
 {
@@ -4024,7 +4024,7 @@
 "author": "Bruce Lee"
 },
 {
-"text": "Ve a tu pecho: llama alli y pregunta a tu corazon que es lo que sabe".,
+"text": "Ve a tu pecho: llama alli y pregunta a tu corazon que es lo que sabe",
 "author": "William Shakespeare"
 },
 {
@@ -4037,7 +4037,7 @@
 },
 {
 "text": "Lo que vemos es principalmente lo que buscamos.",
-"author": nulo
+"author": null
 },
 {
 "text": "Alejate de lo que podria haber sido y mira lo que sera.",
@@ -4048,7 +4048,7 @@
 "author": "William James"
 },
 {
-"text": "La pasion crea el deseo de mas y la accion impulsada por la pasion crea un futuro".,
+"text": "La pasion crea el deseo de mas y la accion impulsada por la pasion crea un futuro",
 "author": "Byron Pulsifer"
 },
 {
@@ -4056,7 +4056,7 @@
 "author": "Alexander Pope"
 },
 {
-"text": "La oportunidad a menudo se presenta disfrazada de infortunio o derrota temporal".,
+"text": "La oportunidad a menudo se presenta disfrazada de infortunio o derrota temporal",
 "author": "Colina de Napoleon"
 },
 {
@@ -4100,11 +4100,11 @@
 "author": "Johann Wolfgang von Goethe"
 },
 {
-"text": "Necesitas caos en tu alma para dar a luz a una estrella danzante".,
+"text": "Necesitas caos en tu alma para dar a luz a una estrella danzante",
 "author": "Nietzsche"
 },
 {
-"text": "No puede ser primavera si tu corazon esta lleno de fracasos pasados".,
+"text": "No puede ser primavera si tu corazon esta lleno de fracasos pasados",
 "author": "Byron Pulsifer"
 },
 {
@@ -4145,7 +4145,7 @@
 },
 {
 "text": "No esperes a que las personas sean amigables. Muestrales como.",
-"author": nulo
+"author": null
 },
 {
 "text": "Una gema no puede ser pulida sin friccion, ni un hombre perfeccionado sin pruebas.",
@@ -4180,7 +4180,7 @@
 "author": "proverbio sueco"
 },
 {
-"text": "Quiero que seas todo lo que eres tu, en lo profundo del centro de tu ser".,
+"text": "Quiero que seas todo lo que eres tu, en lo profundo del centro de tu ser",
 "author": "Confucio"
 },
 {
@@ -4204,7 +4204,7 @@
 "author": "Elizabeth Browning"
 },
 {
-"text": "Lo que cuenta no es de donde vienes, sino hacia donde vas".,
+"text": "Lo que cuenta no es de donde vienes, sino hacia donde vas",
 "author": "Ella Fitzgerald"
 },
 {
@@ -4220,7 +4220,7 @@
 "author": "Blaise Pascal"
 },
 {
-"text": "Si no puedes explicarlo de manera simple, es que no lo entiendes lo suficientemente bien".,
+"text": "Si no puedes explicarlo de manera simple, es que no lo entiendes lo suficientemente bien",
 "author": "Albert Einstein"
 },
 {
@@ -4249,7 +4249,7 @@
 },
 {
 "text": "No dejes que las decepciones de hoy ensombrezcan los sueños de mañana.",
-"author": nulo
+"author": null
 },
 {
 "text": "Siempre logras producir un resultado.",
@@ -4277,7 +4277,7 @@
 },
 {
 "text": "Nunca dejes que la falta de dinero interfiera con la diversion.",
-"author": nulo
+"author": null
 },
 {
 "text": "La excelencia no es una habilidad. Es una actitud.",
@@ -4345,7 +4345,7 @@
 },
 {
 "text": "Quien tiene salud tiene esperanza, y quien tiene esperanza lo tiene todo.",
-"author": nulo
+"author": null
 },
 {
 "text": "Todos los grandes logros requieren tiempo.",
@@ -4384,11 +4384,11 @@
 "author": "Aristoteles"
 },
 {
-"text": "Si no somos completamente nosotros mismos, verdaderamente en el momento presente, nos perdemos todo".,
+"text": "Si no somos completamente nosotros mismos, verdaderamente en el momento presente, nos perdemos todo",
 "author": "Thich Nhat Hanh"
 },
 {
-"text": "Ningun acto de bondad, por pequeño que sea, se desperdicia".,
+"text": "Ningun acto de bondad, por pequeño que sea, se desperdicia",
 "author": "Esopo"
 },
 {
@@ -4397,7 +4397,7 @@
 },
 {
 "text": "Las dificultades de la vida estan destinadas a hacernos mejores, no amargos.",
-"author": nulo
+"author": null
 },
 {
 "text": "Calidad significa hacerlo bien cuando nadie esta mirando.",
@@ -4405,7 +4405,7 @@
 },
 {
 "text": "Cambia tus palabras. Cambia tu mundo.",
-"author": nulo
+"author": null
 },
 {
 "text": "Los grandes actos se componen de pequeños actos.",
@@ -4417,10 +4417,10 @@
 },
 {
 "text": "Mentes abiertas conducen a puertas abiertas.",
-"author": nulo
+"author": null
 },
 {
-"text": "Pueden hacer todo porque creen que pueden".,
+"text": "Pueden hacer todo porque creen que pueden",
 "author": "Virgilio"
 },
 {
@@ -4444,8 +4444,8 @@
 "author": "Pema Chodron"
 },
 {
-"text": "Cada vez que enfrentamos un miedo, ganamos fuerza, coraje y confianza para hacerlo".,
-"author": nulo
+"text": "Cada vez que enfrentamos un miedo, ganamos fuerza, coraje y confianza para hacerlo",
+"author": null
 },
 {
 "text": "Preguntate el secreto de tu exito. Escucha tu respuesta y practicala.",
@@ -4456,7 +4456,7 @@
 "author": "El bronceado mas siniestro"
 },
 {
-"text": "Confia en tus corazonadas. Por lo general, se basan en hechos archivados justo debajo del nivel consciente".,
+"text": "Confia en tus corazonadas. Por lo general, se basan en hechos archivados justo debajo del nivel consciente",
 "author": "Hermanos Joyce"
 },
 {
@@ -4496,7 +4496,7 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "El significado que elegi, el que cambio mi vida: Supera el miedo, contempla el asombro".,
+"text": "El significado que elegi, el que cambio mi vida: Supera el miedo, contempla el asombro",
 "author": "Richard Bach"
 },
 {
@@ -4548,7 +4548,7 @@
 "author": "Og Mandino"
 },
 {
-"text": "Mi mama siempre decia: la vida es como una caja de chocolates, nunca sabes lo que te va a tocar".,
+"text": "Mi mama siempre decia: la vida es como una caja de chocolates, nunca sabes lo que te va a tocar",
 "author": "Forrest Gump"
 },
 {
@@ -4557,7 +4557,7 @@
 },
 {
 "text": "Si llegas a una bifurcacion en el camino, tomala.",
-"author": nulo
+"author": null
 },
 {
 "text": "No solo somos responsables de lo que hacemos, sino tambien de lo que no hacemos.",
@@ -4565,14 +4565,14 @@
 },
 {
 "text": "Nadie puede hacer todo, pero todos pueden hacer algo.",
-"author": nulo
+"author": null
 },
 {
 "text": "El mundo tiene la costumbre de dar cabida al hombre cuyas acciones demuestran que sabe adonde va.",
 "author": "Colina de Napoleon"
 },
 {
-"text": "No puedes bañarte dos veces en el mismo rio, porque otras aguas fluyen continuamente".,
+"text": "No puedes bañarte dos veces en el mismo rio, porque otras aguas fluyen continuamente",
 "author": "Heraclito"
 },
 {
@@ -4604,7 +4604,7 @@
 "author": "Woody Guthrie"
 },
 {
-"text": "Nunca te disculpes por mostrar sentimientos. Cuando lo haces, te disculpas por la verdad".,
+"text": "Nunca te disculpes por mostrar sentimientos. Cuando lo haces, te disculpas por la verdad",
 "author": "Benjamin Disraeli"
 },
 {
@@ -4625,10 +4625,10 @@
 },
 {
 "text": "¿Por que preocuparse por el mañana, cuando hoy es todo lo que tenemos?",
-"author": nulo
+"author": null
 },
 {
-"text": "Habla cuando estes enojado y daras el mejor discurso del que te arrepentiras".,
+"text": "Habla cuando estes enojado y daras el mejor discurso del que te arrepentiras",
 "author": "Ambrose Bierce"
 },
 {
@@ -4653,7 +4653,7 @@
 },
 {
 "text": "La mayoria de las sonrisas comienzan con otra sonrisa.",
-"author": nulo
+"author": null
 },
 {
 "text": "Nada es mas suave o mas flexible que el agua, pero nada puede resistirlo.",
@@ -4684,7 +4684,7 @@
 "author": "Wayne Dyer"
 },
 {
-"text": "Mi consejo para ti es que no preguntes por que o donde, sino que simplemente disfrutes tu helado mientras esta en tu plato, esa es mi filosofia".,
+"text": "Mi consejo para ti es que no preguntes por que o donde, sino que simplemente disfrutes tu helado mientras esta en tu plato, esa es mi filosofia",
 "author": "Thornton Wilder"
 },
 {
@@ -4716,12 +4716,12 @@
 "author": "William White"
 },
 {
-"text": "Las limitaciones viven solo en nuestra mente. Pero si usamos nuestra imaginacion, nuestras posibilidades se vuelven ilimitadas".,
+"text": "Las limitaciones viven solo en nuestra mente. Pero si usamos nuestra imaginacion, nuestras posibilidades se vuelven ilimitadas",
 "author": "Jamie Paolinetti"
 },
 {
 "text": "Cuando pierdas, no pierdas la leccion.",
-"author": nulo
+"author": null
 },
 {
 "text": "Si quieres que algo se haga bien, hazlo tu mismo.",
@@ -4732,7 +4732,7 @@
 "author": "Eriksson"
 },
 {
-"text": "El sol es delicioso, la lluvia es refrescante, el viento nos fortalece, la nieve es estimulante; en realidad no existe el mal tiempo, solo diferentes tipos de buen tiempo".,
+"text": "El sol es delicioso, la lluvia es refrescante, el viento nos fortalece, la nieve es estimulante; en realidad no existe el mal tiempo, solo diferentes tipos de buen tiempo",
 "author": "John Ruskin"
 },
 {
@@ -4748,8 +4748,8 @@
 "author": "Pierre Abelardo"
 },
 {
-"text": "Si pudiera alcanzar y sostener una estrella por cada vez que me has hecho sonreir, todo el cielo de la tarde estaria en la palma de mi mano".,
-"author": nulo
+"text": "Si pudiera alcanzar y sostener una estrella por cada vez que me has hecho sonreir, todo el cielo de la tarde estaria en la palma de mi mano",
+"author": null
 },
 {
 "text": "Nuestros pensamientos nos dan forma; nos convertimos en lo que pensamos. Cuando la mente es pura, la alegria sigue como una sombra que nunca se va.",
@@ -4772,11 +4772,11 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "Para cambiar la vida de uno, comience de inmediato, hagalo de manera extravagante, sin excepciones".,
+"text": "Para cambiar la vida de uno, comience de inmediato, hagalo de manera extravagante, sin excepciones",
 "author": "William James"
 },
 {
-"text": "Al expresar nuestra gratitud, nunca debemos olvidar que el mayor aprecio no es pronunciar palabras, sino vivir de acuerdo con ellas".,
+"text": "Al expresar nuestra gratitud, nunca debemos olvidar que el mayor aprecio no es pronunciar palabras, sino vivir de acuerdo con ellas",
 "author": "John F. Kennedy"
 },
 {
@@ -4785,22 +4785,22 @@
 },
 {
 "text": "Cuanto mas empinada sea la montaña, mas dificil sera la subida, mejor sera la vista desde la linea de meta",
-"author": nulo
+"author": null
 },
 {
-"text": "Apunta al exito, no a la perfeccion. Nunca renuncies a tu derecho a equivocarte, porque entonces perderas la capacidad de aprender cosas nuevas y seguir adelante con tu vida".,
+"text": "Apunta al exito, no a la perfeccion. Nunca renuncies a tu derecho a equivocarte, porque entonces perderas la capacidad de aprender cosas nuevas y seguir adelante con tu vida",
 "author": "Dr. David M. Burns"
 },
 {
-"text": "Cuando dejo ir lo que soy, me convierto en lo que podria ser".,
+"text": "Cuando dejo ir lo que soy, me convierto en lo que podria ser",
 "author": "Lao Tse"
 },
 {
-"text": "La transformacion no comienza cuando alguien mas te cambia; la transformacion es una reelaboracion interna de lo que eres ahora a lo que seras".,
+"text": "La transformacion no comienza cuando alguien mas te cambia; la transformacion es una reelaboracion interna de lo que eres ahora a lo que seras",
 "author": "Byron Pulsifer"
 },
 {
-"text": "El tiempo no es una medida de la duracion de un dia, un mes o un año, sino mas bien una medida de lo que has logrado".,
+"text": "El tiempo no es una medida de la duracion de un dia, un mes o un año, sino mas bien una medida de lo que has logrado",
 "author": "Byron Pulsifer"
 },
 {
@@ -4808,7 +4808,7 @@
 "author": "Johann Wolfgang von Goethe"
 },
 {
-"text": "Aferrarse a la ira es como agarrar un carbon caliente con la intencion de arrojarselo a otra persona; tu eres el que se quema".,
+"text": "Aferrarse a la ira es como agarrar un carbon caliente con la intencion de arrojarselo a otra persona; tu eres el que se quema",
 "author": "Buda"
 },
 {
@@ -4820,7 +4820,7 @@
 "author": "Lao Tse"
 },
 {
-"text": "No hay escasez de oportunidades para ganarte la vida con lo que amas; solo hay escasez de determinacion para hacerlo realidad".,
+"text": "No hay escasez de oportunidades para ganarte la vida con lo que amas; solo hay escasez de determinacion para hacerlo realidad",
 "author": "Wayne Dyer"
 },
 {
@@ -4828,7 +4828,7 @@
 "author": "Wolfgang Amadeus Mozart"
 },
 {
-"text": "Las personas felices y eficientes en este mundo son aquellas que aceptan los problemas como un detalle normal de la vida humana y deciden capitalizarlos cuando se presentan".,
+"text": "Las personas felices y eficientes en este mundo son aquellas que aceptan los problemas como un detalle normal de la vida humana y deciden capitalizarlos cuando se presentan",
 "author": "H. Bertram Lewis"
 },
 {
@@ -4841,7 +4841,7 @@
 },
 {
 "text": "No dejes que lo que no puedes hacer te impida hacer lo que puedes hacer.",
-"author": nulo
+"author": null
 },
 {
 "text": "Quejarse no cambia nada, solo actuar lo hace.",
@@ -4852,11 +4852,11 @@
 "author": "Charles A. Lindbergh"
 },
 {
-"text": "Disfruta de las pequeñas cosas, porque algun dia miraras hacia atras y te daras cuenta de que eran las grandes cosas".,
+"text": "Disfruta de las pequeñas cosas, porque algun dia miraras hacia atras y te daras cuenta de que eran las grandes cosas",
 "author": "Roberto Brault"
 },
 {
-"text": "Con cada experiencia, solo tu pintas tu propio lienzo, pensamiento a pensamiento, eleccion a eleccion".,
+"text": "Con cada experiencia, solo tu pintas tu propio lienzo, pensamiento a pensamiento, eleccion a eleccion",
 "author": "Oprah Winfrey"
 },
 {
@@ -4876,7 +4876,7 @@
 "author": "John Lubbock"
 },
 {
-"text": "La verdad, la bondad y la belleza no son mas que caras diferentes de lo mismo".,
+"text": "La verdad, la bondad y la belleza no son mas que caras diferentes de lo mismo",
 "author": "Ralph Emerson"
 },
 {
@@ -4888,7 +4888,7 @@
 "author": "Alfred Adler"
 },
 {
-"text": "Nunca, nunca, nunca te rindas".,
+"text": "Nunca, nunca, nunca te rindas",
 "author": "Winston Churchill"
 },
 {
@@ -4896,11 +4896,11 @@
 "author": "Andre Gide"
 },
 {
-"text": "A medida que crecemos como personas unicas, aprendemos a respetar la singularidad de los demas".,
+"text": "A medida que crecemos como personas unicas, aprendemos a respetar la singularidad de los demas",
 "author": "Robert Schuller"
 },
 {
-"text": "El fracaso no significa que seas un fracaso, solo significa que aun no has tenido exito".,
+"text": "El fracaso no significa que seas un fracaso, solo significa que aun no has tenido exito",
 "author": "Robert Schuller"
 },
 {
@@ -4916,7 +4916,7 @@
 "author": "Epicteto"
 },
 {
-"text": "A causa del orgullo, siempre nos engañamos a nosotros mismos. Pero en el fondo, debajo de la superficie de la conciencia promedio, una voz suave y apacible nos dice: Algo esta desafinado".,
+"text": "A causa del orgullo, siempre nos engañamos a nosotros mismos. Pero en el fondo, debajo de la superficie de la conciencia promedio, una voz suave y apacible nos dice: Algo esta desafinado",
 "author": "Carl Jung"
 },
 {
@@ -4964,11 +4964,11 @@
 "author": "Confucio"
 },
 {
-"text": "El problema con la mayoria de las personas es que piensan con sus esperanzas, miedos o deseos en lugar de con sus mentes".,
+"text": "El problema con la mayoria de las personas es que piensan con sus esperanzas, miedos o deseos en lugar de con sus mentes",
 "author": "Will Durant"
 },
 {
-"text": "Muchas personas se dan por vencidas justo antes de que esten a punto de lograrlo. Sabes que nunca sabes cuando el proximo obstaculo sera el ultimo".,
+"text": "Muchas personas se dan por vencidas justo antes de que esten a punto de lograrlo. Sabes que nunca sabes cuando el proximo obstaculo sera el ultimo",
 "author": "Chuck Norris"
 },
 {
@@ -4980,11 +4980,11 @@
 "author": "Tony Robbins"
 },
 {
-"text": "No te vuelves bueno tratando de ser bueno, sino encontrando la bondad que ya esta dentro de ti".,
+"text": "No te vuelves bueno tratando de ser bueno, sino encontrando la bondad que ya esta dentro de ti",
 "author": "Eckhart Tolle"
 },
 {
-"text": "No pierdas mas tiempo discutiendo sobre lo que debe ser un buen hombre. Se uno".,
+"text": "No pierdas mas tiempo discutiendo sobre lo que debe ser un buen hombre. Se uno",
 "author": "Marco Aurelio"
 },
 {
@@ -4996,7 +4996,7 @@
 "author": "Mark Twain"
 },
 {
-"text": "Las cosas que uno mas quiere hacer son las que probablemente mas valen la pena".,
+"text": "Las cosas que uno mas quiere hacer son las que probablemente mas valen la pena",
 "author": "Winifred Holtby"
 },
 {
@@ -5012,11 +5012,11 @@
 "author": "Richard Garriot"
 },
 {
-"text": "La perseverancia es un gran elemento del exito. Si llamas a la puerta lo suficiente y lo suficientemente fuerte, seguramente despertaras a alguien".,
+"text": "La perseverancia es un gran elemento del exito. Si llamas a la puerta lo suficiente y lo suficientemente fuerte, seguramente despertaras a alguien",
 "author": "Henry Longfellow"
 },
 {
-"text": "Solo a traves de nuestra conexion con los demas podemos realmente conocernos y mejorar el yo. Y solo trabajando en nosotros mismos podemos comenzar a mejorar nuestra conexion con los demas".,
+"text": "Solo a traves de nuestra conexion con los demas podemos realmente conocernos y mejorar el yo. Y solo trabajando en nosotros mismos podemos comenzar a mejorar nuestra conexion con los demas",
 "author": "Harriet Lerner"
 },
 {
@@ -5040,15 +5040,15 @@
 "author": "Jack Buck"
 },
 {
-"text": "Estamos aqui por una razon. Creo que una parte de la razon es arrojar pequeñas antorchas para guiar a las personas en la oscuridad".,
+"text": "Estamos aqui por una razon. Creo que una parte de la razon es arrojar pequeñas antorchas para guiar a las personas en la oscuridad",
 "author": "Whoopi Goldberg"
 },
 {
-"text": "Para comunicarnos de manera efectiva, debemos darnos cuenta de que todos somos diferentes en la forma en que percibimos el mundo y usar esta comprension como guia para nuestra comunicacion con los demas".,
+"text": "Para comunicarnos de manera efectiva, debemos darnos cuenta de que todos somos diferentes en la forma en que percibimos el mundo y usar esta comprension como guia para nuestra comunicacion con los demas",
 "author": "Anthony Robbins"
 },
 {
-"text": "La habilidad nunca alcanzara la demanda".,
+"text": "La habilidad nunca alcanzara la demanda",
 "author": "Confucio"
 },
 {
@@ -5088,7 +5088,7 @@
 "author": "George Eliot"
 },
 {
-"text": "Cuando sentimos amor y bondad hacia los demas, no solo hace que los demas se sientan amados y cuidados, sino que tambien nos ayuda a desarrollar la felicidad y la paz interior".,
+"text": "Cuando sentimos amor y bondad hacia los demas, no solo hace que los demas se sientan amados y cuidados, sino que tambien nos ayuda a desarrollar la felicidad y la paz interior",
 "author": "Tenzin Gyatso"
 },
 {
@@ -5096,7 +5096,7 @@
 "author": "Maya Angelou"
 },
 {
-"text": "Cada persona, todos los eventos de tu vida estan ahi porque tu los has dibujado alli. Lo que elijas hacer con ellos depende de ti".,
+"text": "Cada persona, todos los eventos de tu vida estan ahi porque tu los has dibujado alli. Lo que elijas hacer con ellos depende de ti",
 "author": "Richard Bach"
 },
 {
@@ -5104,7 +5104,7 @@
 "author": "Albert Einstein"
 },
 {
-"text": "Nuestros deseos mas profundos son susurros de nuestro autentico yo. Debemos aprender a respetarlos. Debemos aprender a escuchar".,
+"text": "Nuestros deseos mas profundos son susurros de nuestro autentico yo. Debemos aprender a respetarlos. Debemos aprender a escuchar",
 "author": "Sarah Breathnach"
 },
 {
@@ -5112,7 +5112,7 @@
 "author": "Henry Thoreau"
 },
 {
-"text": "Ese es el riesgo que corres si cambias: que a las personas con las que has estado involucrado no les guste tu nuevo yo. Pero otras personas que si lo haran vendran".,
+"text": "Ese es el riesgo que corres si cambias: que a las personas con las que has estado involucrado no les guste tu nuevo yo. Pero otras personas que si lo haran vendran",
 "author": "Lisa Alther"
 },
 {
@@ -5120,7 +5120,7 @@
 "author": "Walter Benjamin"
 },
 {
-"text": "La fuerza para continuar a pesar de las adversidades significa que tienes fe en tus propias habilidades y sabes como hacerlo".,
+"text": "La fuerza para continuar a pesar de las adversidades significa que tienes fe en tus propias habilidades y sabes como hacerlo",
 "author": "Byron Pulsifer"
 },
 {
@@ -5140,11 +5140,11 @@
 "author": "Benjamin Disraeli"
 },
 {
-"text": "Los lideres no nacen, se hacen. Y se hacen como cualquier otra cosa, a traves del trabajo duro. Y ese es el precio que tenemos que pagar para lograr esa meta, o cualquier meta".,
+"text": "Los lideres no nacen, se hacen. Y se hacen como cualquier otra cosa, a traves del trabajo duro. Y ese es el precio que tenemos que pagar para lograr esa meta, o cualquier meta",
 "author": "Vince Lombardi"
 },
 {
-"text": "Se necesita coraje para crecer y convertirte en quien realmente eres".,
+"text": "Se necesita coraje para crecer y convertirte en quien realmente eres",
 "author": "EE Cummings"
 },
 {
@@ -5181,10 +5181,10 @@
 },
 {
 "text": "Nunca puedes cruzar el oceano a menos que tengas el coraje de perder de vista la costa.",
-"author": nulo
+"author": null
 },
 {
-"text": "Trabaja por algo porque es bueno, no solo porque tiene la oportunidad de tener exito".,
+"text": "Trabaja por algo porque es bueno, no solo porque tiene la oportunidad de tener exito",
 "author": "Vaclav Havel"
 },
 {
@@ -5192,11 +5192,11 @@
 "author": "Carl Jung"
 },
 {
-"text": "Haz que nunca te arrepientas ni mires atras como regla de vida. El arrepentimiento es un terrible desperdicio de energia; no puedes construir sobre el; es solo para revolcarse".,
+"text": "Haz que nunca te arrepientas ni mires atras como regla de vida. El arrepentimiento es un terrible desperdicio de energia; no puedes construir sobre el; es solo para revolcarse",
 "author": "Katherine Mansfield"
 },
 {
-"text": "Nunca te arrepientas. Si es bueno, es maravilloso. Si es malo, es experiencia".,
+"text": "Nunca te arrepientas. Si es bueno, es maravilloso. Si es malo, es experiencia",
 "author": "Victoria Holt"
 },
 {
@@ -5204,7 +5204,7 @@
 "author": "Chuang Tzu"
 },
 {
-"text": "Las palabras amables pueden ser cortas y faciles de pronunciar, pero sus ecos son realmente interminables".,
+"text": "Las palabras amables pueden ser cortas y faciles de pronunciar, pero sus ecos son realmente interminables",
 "author": "Madre Teresa"
 },
 {
@@ -5212,7 +5212,7 @@
 "author": "William Blake"
 },
 {
-"text": "Lo mas importante es transformar nuestras mentes, para una nueva forma de pensar, una nueva perspectiva: debemos esforzarnos por desarrollar un nuevo mundo interior".,
+"text": "Lo mas importante es transformar nuestras mentes, para una nueva forma de pensar, una nueva perspectiva: debemos esforzarnos por desarrollar un nuevo mundo interior",
 "author": "Dalai Lama"
 },
 {
@@ -5228,7 +5228,7 @@
 "author": "Byron Pulsifer"
 },
 {
-"text": "No le sucede nada a ninguna persona que no sea lo que estaba en su poder".,
+"text": "No le sucede nada a ninguna persona que no sea lo que estaba en su poder",
 "author": "Marco Aurelio"
 },
 {
@@ -5264,7 +5264,7 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "La verdadera felicidad significa forjar un espiritu fuerte que permanece invicto, sin importar cuan dificiles sean nuestras circunstancias".,
+"text": "La verdadera felicidad significa forjar un espiritu fuerte que permanece invicto, sin importar cuan dificiles sean nuestras circunstancias",
 "author": "Daisaku Ikeda"
 },
 {
@@ -5288,7 +5288,7 @@
 "author": "James Yorke"
 },
 {
-"text": "La critica es algo que puedes evitar facilmente si no dices nada, no haces nada y no eres nada".,
+"text": "La critica es algo que puedes evitar facilmente si no dices nada, no haces nada y no eres nada",
 "author": "Aristoteles"
 },
 {
@@ -5300,7 +5300,7 @@
 "author": "Hanna More"
 },
 {
-"text": "El mayor peligro para la mayoria de nosotros no es que nuestro objetivo sea demasiado alto y no lo alcancemos, sino que sea demasiado bajo y lo logremos".,
+"text": "El mayor peligro para la mayoria de nosotros no es que nuestro objetivo sea demasiado alto y no lo alcancemos, sino que sea demasiado bajo y lo logremos",
 "author": "Miguel angel"
 },
 {
@@ -5308,7 +5308,7 @@
 "author": "Albert Einstein"
 },
 {
-"text": "Podemos cambiar nuestras vidas. Podemos hacer, tener y ser exactamente lo que deseamos".,
+"text": "Podemos cambiar nuestras vidas. Podemos hacer, tener y ser exactamente lo que deseamos",
 "author": "Tony Robbins"
 },
 {
@@ -5328,11 +5328,11 @@
 "author": "Isocrates"
 },
 {
-"text": "Aunque nadie puede regresar y hacer un nuevo comienzo, cualquiera puede comenzar de nuevo y hacer un nuevo final".,
+"text": "Aunque nadie puede regresar y hacer un nuevo comienzo, cualquiera puede comenzar de nuevo y hacer un nuevo final",
 "author": "Carl Bard"
 },
 {
-"text": "Un sueño es tu vision creativa para tu vida en el futuro. Debes salir de tu zona de confort actual y sentirte comodo con lo extraño y lo desconocido".,
+"text": "Un sueño es tu vision creativa para tu vida en el futuro. Debes salir de tu zona de confort actual y sentirte comodo con lo extraño y lo desconocido",
 "author": "Denis Waitley"
 },
 {
@@ -5353,7 +5353,7 @@
 },
 {
 "text": "El mejor lugar para encontrar una mano que te ayude es al final de tu propio brazo.",
-"author": nulo
+"author": null
 },
 {
 "text": "Conocemos la verdad, no solo por la razon, sino por el corazon.",
@@ -5376,7 +5376,7 @@
 "author": "Richard Bach"
 },
 {
-"text": "Enfocar tu vida unicamente en ganar dinero muestra una pobreza de ambicion. Te exige muy poco a ti mismo. Y te dejara insatisfecho".,
+"text": "Enfocar tu vida unicamente en ganar dinero muestra una pobreza de ambicion. Te exige muy poco a ti mismo. Y te dejara insatisfecho",
 "author": "Barack Obama"
 },
 {
@@ -5400,8 +5400,8 @@
 "author": "Confucio"
 },
 {
-"text": "No le temas tanto al fracaso que te niegues a probar cosas nuevas. El resumen mas triste de la vida contiene tres descripciones: podria tener, podria tener y deberia tener".,
-"author": nulo
+"text": "No le temas tanto al fracaso que te niegues a probar cosas nuevas. El resumen mas triste de la vida contiene tres descripciones: podria tener, podria tener y deberia tener",
+"author": null
 },
 {
 "text": "Todos los patrones establecidos fijos son incapaces de adaptabilidad o flexibilidad. La verdad esta fuera de todos los patrones fijos.",
@@ -5416,7 +5416,7 @@
 "author": "Helen Keller"
 },
 {
-"text": "El exito en los negocios requiere entrenamiento, disciplina y trabajo duro. Pero si no te asustan estas cosas, las oportunidades son tan grandes hoy como siempre".,
+"text": "El exito en los negocios requiere entrenamiento, disciplina y trabajo duro. Pero si no te asustan estas cosas, las oportunidades son tan grandes hoy como siempre",
 "author": "David Rockefeller"
 },
 {
@@ -5432,7 +5432,7 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "El sueño siempre corria delante de mi. Ponerme al dia, vivir un momento al unisono con el, ese fue el milagro".,
+"text": "El sueño siempre corria delante de mi. Ponerme al dia, vivir un momento al unisono con el, ese fue el milagro",
 "author": "Anaïs Nin"
 },
 {
@@ -5484,11 +5484,11 @@
 "author": "Moncure Conway"
 },
 {
-"text": "Tenemos que tener un sueño si vamos a hacerlo realidad".,
+"text": "Tenemos que tener un sueño si vamos a hacerlo realidad",
 "author": "Walt Disney"
 },
 {
-"text": "Si quieres que las cosas sean diferentes, quizas la respuesta sea cambiar tu mismo".,
+"text": "Si quieres que las cosas sean diferentes, quizas la respuesta sea cambiar tu mismo",
 "author": "Norman Peale"
 },
 {
@@ -5500,7 +5500,7 @@
 "author": "Teodoro Rubin"
 },
 {
-"text": "Todo gran sueño comienza con un soñador. Recuerda siempre que tienes dentro de ti la fuerza, la paciencia y la pasion para alcanzar las estrellas y cambiar el mundo".,
+"text": "Todo gran sueño comienza con un soñador. Recuerda siempre que tienes dentro de ti la fuerza, la paciencia y la pasion para alcanzar las estrellas y cambiar el mundo",
 "author": "Harriet Tubman"
 },
 {
@@ -5581,7 +5581,7 @@
 },
 {
 "text": "No podemos dirigir el viento pero podemos ajustar las velas.",
-"author": nulo
+"author": null
 },
 {
 "text": "Se puede decir que el misterio eterno del mundo es su comprensibilidad.",
@@ -5616,7 +5616,7 @@
 "author": "Ciceron"
 },
 {
-"text": "Nunca es demasiado tarde. Incluso si vas a morir mañana, mantente firme y claro y se un ser humano feliz hoy".,
+"text": "Nunca es demasiado tarde. Incluso si vas a morir mañana, mantente firme y claro y se un ser humano feliz hoy",
 "author": "Lama Yeshe"
 },
 {
@@ -5636,7 +5636,7 @@
 "author": "Stephen Sigmund"
 },
 {
-"text": "Todos nos enfrentamos a una serie de grandes oportunidades brillantemente disfrazadas de situaciones imposibles".,
+"text": "Todos nos enfrentamos a una serie de grandes oportunidades brillantemente disfrazadas de situaciones imposibles",
 "author": "Charles R. Swindoll"
 },
 {
@@ -5708,7 +5708,7 @@
 "author": "Buda"
 },
 {
-"text": "Arriesgar mas de lo que otros creen que es seguro. Cuidar mas de lo que otros creen que es sabio. Sueña mas de lo que otros creen que es practico. Espera mas de lo que otros creen que es posible".,
+"text": "Arriesgar mas de lo que otros creen que es seguro. Cuidar mas de lo que otros creen que es sabio. Sueña mas de lo que otros creen que es practico. Espera mas de lo que otros creen que es posible",
 "author": "Cadete Maxim"
 },
 {
@@ -5716,7 +5716,7 @@
 "author": "Og Mandino"
 },
 {
-"text": "Deja de lado tu apego a tener la razon y, de repente, tu mente estara mas abierta. Podras beneficiarte de los puntos de vista unicos de los demas, sin que tu propio juicio te limite".,
+"text": "Deja de lado tu apego a tener la razon y, de repente, tu mente estara mas abierta. Podras beneficiarte de los puntos de vista unicos de los demas, sin que tu propio juicio te limite",
 "author": "Ralph Marston"
 },
 {
@@ -5772,7 +5772,7 @@
 "author": "Robert Southey"
 },
 {
-"text": "Cuando las personas son como otras, tienden a gustarse".,
+"text": "Cuando las personas son como otras, tienden a gustarse",
 "author": "Tony Robbins"
 },
 {
@@ -5788,19 +5788,19 @@
 "author": "Jim Rohn"
 },
 {
-"text": "Muchas personas quieren viajar contigo en la limusina, pero lo que quieres es alguien que tome el autobus contigo cuando la limusina se averie".,
+"text": "Muchas personas quieren viajar contigo en la limusina, pero lo que quieres es alguien que tome el autobus contigo cuando la limusina se averie",
 "author": "Oprah Winfrey"
 },
 {
-"text": "Solo confia en ti mismo, entonces sabras como vivir".,
+"text": "Solo confia en ti mismo, entonces sabras como vivir",
 "author": "Goethe"
 },
 {
-"text": "Estar completamente vivo, completamente humano y completamente despierto es ser arrojado continuamente del nido".,
+"text": "Estar completamente vivo, completamente humano y completamente despierto es ser arrojado continuamente del nido",
 "author": "Pema Chodron"
 },
 {
-"text": "Si no diseñas tu propio plan de vida, es probable que caigas en el plan de otra persona. ¿Y adivina que han planeado para ti? No mucho".,
+"text": "Si no diseñas tu propio plan de vida, es probable que caigas en el plan de otra persona. ¿Y adivina que han planeado para ti? No mucho",
 "author": "Jim Rohn"
 },
 {
@@ -5808,8 +5808,8 @@
 "author": "Carl Jung"
 },
 {
-"text": "Rendirse no siempre significa que eres debil; a veces significa que eres lo suficientemente fuerte como para dejarlo ir".,
-"author": nulo
+"text": "Rendirse no siempre significa que eres debil; a veces significa que eres lo suficientemente fuerte como para dejarlo ir",
+"author": null
 },
 {
 "text": "Para subir colinas empinadas se requiere un ritmo lento al principio.",
@@ -5844,8 +5844,8 @@
 "author": "Ralph Emerson"
 },
 {
-"text": "Muchas personas han llegado mas lejos de lo que pensaban que podian porque alguien mas penso que podian".,
-"author": nulo
+"text": "Muchas personas han llegado mas lejos de lo que pensaban que podian porque alguien mas penso que podian",
+"author": null
 },
 {
 "text": "Leemos mal el mundo y decimos que nos engaña.",
@@ -5860,11 +5860,11 @@
 "author": "Eleanor Roosevelt"
 },
 {
-"text": "Se tu mismo; todos los demas ya estan ocupados".,
+"text": "Se tu mismo; todos los demas ya estan ocupados",
 "author": "oscar Wilde"
 },
 {
-"text": "La marca de tu ignorancia es la profundidad de tu creencia en la injusticia y la tragedia. Lo que la oruga llama el fin del mundo, el Maestro llama mariposa".,
+"text": "La marca de tu ignorancia es la profundidad de tu creencia en la injusticia y la tragedia. Lo que la oruga llama el fin del mundo, el Maestro llama mariposa",
 "author": "Richard Bach"
 },
 {
@@ -5924,7 +5924,7 @@
 "author": "Henri Amiel"
 },
 {
-"text": "A veces, al perder una batalla, encuentras una nueva forma de ganar la guerra".,
+"text": "A veces, al perder una batalla, encuentras una nueva forma de ganar la guerra",
 "author": "Donald Trump"
 },
 {
@@ -5936,7 +5936,7 @@
 "author": "Betty Friedan"
 },
 {
-"text": "Si estas en una mala situacion, no te preocupes, cambiara. Si estas en una buena situacion, no te preocupes, cambiara".,
+"text": "Si estas en una mala situacion, no te preocupes, cambiara. Si estas en una buena situacion, no te preocupes, cambiara",
 "author": "Juan Simone"
 },
 {
@@ -5948,7 +5948,7 @@
 "author": "Oprah Winfrey"
 },
 {
-"text": "Lo que la oruga llama el fin del mundo, el maestro lo llama mariposa".,
+"text": "Lo que la oruga llama el fin del mundo, el maestro lo llama mariposa",
 "author": "Richard Bach"
 },
 {
@@ -5984,11 +5984,11 @@
 "author": "Ziggy"
 },
 {
-"text": "No hay un gran significado cosmico para todos, solo existe el significado que cada uno le da a nuestra vida".,
+"text": "No hay un gran significado cosmico para todos, solo existe el significado que cada uno le da a nuestra vida",
 "author": "Anaïs Nin"
 },
 {
-"text": "Un lider es mejor cuando la gente apenas sabe que existe, cuando su trabajo esta hecho, su objetivo cumplido, diran: lo hicimos nosotros mismos".,
+"text": "Un lider es mejor cuando la gente apenas sabe que existe, cuando su trabajo esta hecho, su objetivo cumplido, diran: lo hicimos nosotros mismos",
 "author": "Lao Tse"
 },
 {
@@ -6020,7 +6020,7 @@
 "author": "Richard Bach"
 },
 {
-"text": "El esfuerzo continuo, no la fuerza o la inteligencia, es la clave para desbloquear nuestro potencial".,
+"text": "El esfuerzo continuo, no la fuerza o la inteligencia, es la clave para desbloquear nuestro potencial",
 "author": "Winston Churchill"
 },
 {
@@ -6032,11 +6032,11 @@
 "author": "Wayne Dyer"
 },
 {
-"text": "Nunca le digas a un joven que no se puede hacer nada. Es posible que Dios haya estado esperando durante siglos a que alguien ignorante de lo imposible hiciera exactamente eso".,
+"text": "Nunca le digas a un joven que no se puede hacer nada. Es posible que Dios haya estado esperando durante siglos a que alguien ignorante de lo imposible hiciera exactamente eso",
 "author": "John Holmes"
 },
 {
-"text": "La audacia no es el acto de la tonteria, sino el atributo y la fuerza interior para actuar cuando otros no lo haran para avanzar, no retroceder".,
+"text": "La audacia no es el acto de la tonteria, sino el atributo y la fuerza interior para actuar cuando otros no lo haran para avanzar, no retroceder",
 "author": "Byron Pulsifer"
 },
 {
@@ -6072,11 +6072,11 @@
 "author": "Jules Poincare"
 },
 {
-"text": "No te desanimes por las despedidas. Una despedida es necesaria antes de que puedan volver a encontrarse. Y volverse a encontrar, despues de momentos o vidas, es seguro para aquellos que son amigos".,
+"text": "No te desanimes por las despedidas. Una despedida es necesaria antes de que puedan volver a encontrarse. Y volverse a encontrar, despues de momentos o vidas, es seguro para aquellos que son amigos",
 "author": "Richard Bach"
 },
 {
-"text": "Si alguien en tu vida te hablara como te hablas a ti mismo, lo habrias dejado hace mucho tiempo".,
+"text": "Si alguien en tu vida te hablara como te hablas a ti mismo, lo habrias dejado hace mucho tiempo",
 "author": "Carla Gordon"
 },
 {
@@ -6088,15 +6088,15 @@
 "author": "Daisaku Ikeda"
 },
 {
-"text": "Hay una forma en que la naturaleza habla, la tierra habla. La mayoria de las veces simplemente no somos lo suficientemente pacientes, lo suficientemente silenciosos para prestar atencion a la historia".,
+"text": "Hay una forma en que la naturaleza habla, la tierra habla. La mayoria de las veces simplemente no somos lo suficientemente pacientes, lo suficientemente silenciosos para prestar atencion a la historia",
 "author": "Linda Hogan"
 },
 {
 "text": "Nunca me digas que el cielo es el limite cuando hay huellas en la luna.",
-"author": nulo
+"author": null
 },
 {
-"text": "No puedo decir si las cosas mejoraran si cambiamos; lo que puedo decir es que deben cambiar para mejorar".,
+"text": "No puedo decir si las cosas mejoraran si cambiamos; lo que puedo decir es que deben cambiar para mejorar",
 "author": "Georg Lichtenberg"
 },
 {
@@ -6152,7 +6152,7 @@
 "author": "George Shaw"
 },
 {
-"text": "Los buenos instintos generalmente te dicen que hacer mucho antes de que tu cabeza se de cuenta".,
+"text": "Los buenos instintos generalmente te dicen que hacer mucho antes de que tu cabeza se de cuenta",
 "author": "Michael Burke"
 },
 {
@@ -6172,12 +6172,12 @@
 "author": "Richard Bach"
 },
 {
-"text": "Las palabras amables pueden ser cortas y faciles de pronunciar, pero sus ecos son verdaderamente interminables".,
+"text": "Las palabras amables pueden ser cortas y faciles de pronunciar, pero sus ecos son verdaderamente interminables",
 "author": "Madre Teresa"
 },
 {
 "text": "Cuenta tus alegrias en lugar de tus penas. Cuenta tus amigos en lugar de tus enemigos.",
-"author": nulo
+"author": null
 },
 {
 "text": "Los sueños se hacen realidad. Sin esa posibilidad, la naturaleza no nos incitaria a tenerlos.",
@@ -6216,7 +6216,7 @@
 "author": "Rabino Hillel"
 },
 {
-"text": "Cuando me atrevo a ser poderoso, a usar mi fuerza al servicio de mi vision, entonces se vuelve cada vez menos importante si tengo miedo".,
+"text": "Cuando me atrevo a ser poderoso, a usar mi fuerza al servicio de mi vision, entonces se vuelve cada vez menos importante si tengo miedo",
 "author": "Audre Lorde"
 },
 {
@@ -6228,7 +6228,7 @@
 "author": "Mark Twain"
 },
 {
-"text": "A veces nuestro destino se parece a un arbol frutal en invierno. Quien pensaria que esas ramas volverian a reverdecer y florecer, pero lo esperamos, lo sabemos".,
+"text": "A veces nuestro destino se parece a un arbol frutal en invierno. Quien pensaria que esas ramas volverian a reverdecer y florecer, pero lo esperamos, lo sabemos",
 "author": "Johann Wolfgang von Goethe"
 },
 {
@@ -6248,7 +6248,7 @@
 "author": "Dale Earnhardt"
 },
 {
-"text": "La espiritualidad puede separarse tanto del sectarismo vicioso como de las banalidades irreflexivas. He llegado a ver que la espiritualidad es nada menos que el amor reflexivo por la vida".,
+"text": "La espiritualidad puede separarse tanto del sectarismo vicioso como de las banalidades irreflexivas. He llegado a ver que la espiritualidad es nada menos que el amor reflexivo por la vida",
 "author": "Robert C. Solomon"
 },
 {
@@ -6260,7 +6260,7 @@
 "author": "Denis Waitley"
 },
 {
-"text": "La vida es lo que te sucede mientras estas ocupado haciendo otros planes".,
+"text": "La vida es lo que te sucede mientras estas ocupado haciendo otros planes",
 "author": "John Lennon"
 },
 {
@@ -6284,7 +6284,7 @@
 "author": "Plutarco"
 },
 {
-"text": "Creo que puedes tener un exito moderado copiando otra cosa, pero si realmente quieres triunfar, tienes que hacer algo diferente y arriesgarte".,
+"text": "Creo que puedes tener un exito moderado copiando otra cosa, pero si realmente quieres triunfar, tienes que hacer algo diferente y arriesgarte",
 "author": "Lee Womack"
 },
 {
@@ -6296,11 +6296,11 @@
 "author": "William Menninger"
 },
 {
-"text": "Tengo una religion cotidiana que funciona para mi. amate a ti mismo primero, y todo lo demas encajara".,
+"text": "Tengo una religion cotidiana que funciona para mi. amate a ti mismo primero, y todo lo demas encajara",
 "author": "Lucille Ball"
 },
 {
-"text": "Fluye con lo que sea que este sucediendo y deja que tu mente sea libre. Mantente centrado aceptando lo que sea que estes haciendo. Esto es lo ultimo".,
+"text": "Fluye con lo que sea que este sucediendo y deja que tu mente sea libre. Mantente centrado aceptando lo que sea que estes haciendo. Esto es lo ultimo",
 "author": "Chuang Tzu"
 },
 {
@@ -6324,7 +6324,7 @@
 "author": "Francis Bacon"
 },
 {
-"text": "Disminuye la velocidad y disfruta de la vida. No solo te pierdes el paisaje al ir demasiado rapido, tambien te pierdes el sentido de hacia donde vas y por que".,
+"text": "Disminuye la velocidad y disfruta de la vida. No solo te pierdes el paisaje al ir demasiado rapido, tambien te pierdes el sentido de hacia donde vas y por que",
 "author": "Eddie Cantor"
 },
 {
@@ -6348,7 +6348,7 @@
   "author": "Wayne Dyer"
 },
 {
-"text": "Defiende tus limitaciones y seguro que son tuyas".,
+"text": "Defiende tus limitaciones y seguro que son tuyas",
 "author": "Richard Bach"
 },
 {
@@ -6373,10 +6373,10 @@
 },
 {
 "text": "Cuidado con la verdad a medias. Es posible que te hayas quedado con la mitad equivocada.",
-"author": nulo
+"author": null
 },
 {
-"text": "El mayor error que puedes cometer en la vida es estar continuamente temiendo que cometeras uno".,
+"text": "El mayor error que puedes cometer en la vida es estar continuamente temiendo que cometeras uno",
 "author": "Elbert Hubbard"
 },
 {
@@ -6384,7 +6384,7 @@
 "author": "Calvin Coolidge"
 },
 {
-"texto": "No te enfades por no poder hacer a los demas como deseas que sean, ya que no puedes hacerte a ti mismo como deseas ser".,
+"texto": "No te enfades por no poder hacer a los demas como deseas que sean, ya que no puedes hacerte a ti mismo como deseas ser",
 "author": "Thomas Kempis"
 },
 {
@@ -6437,7 +6437,7 @@
 },
 {
 "text": "No es quien eres lo que te detiene, es quien crees que no eres.",
-"author": nulo
+"author": null
 },
 {
 "text": "Todos los niños son artistas. El problema es como seguir siendo un artista una vez que crezca.",
@@ -6516,7 +6516,7 @@
 "author": "Lazuro largo"
 },
 {
-"text": "En pocas palabras, crees que las cosas o las personas te hacen infeliz, pero esto no es exacto. Te haces infeliz a ti mismo".,
+"text": "En pocas palabras, crees que las cosas o las personas te hacen infeliz, pero esto no es exacto. Te haces infeliz a ti mismo",
 "author": "Wayne Dyer"
 },
 {
@@ -6528,11 +6528,11 @@
 "author": "Catherine Pulsifer"
 },
 {
-"text": "Ir en contra del pensamiento dominante de tus amigos, de la mayoria de las personas que ves todos los dias, es quizas el acto de heroismo mas dificil que puedes realizar".,
+"text": "Ir en contra del pensamiento dominante de tus amigos, de la mayoria de las personas que ves todos los dias, es quizas el acto de heroismo mas dificil que puedes realizar",
 "author": "Theodore H. White"
 },
 {
-"text": "La gratitud le da sentido a nuestro pasado, trae paz para hoy y crea una vision para el mañana".,
+"text": "La gratitud le da sentido a nuestro pasado, trae paz para hoy y crea una vision para el mañana",
 "author": "Melodia Beattie"
 },
 {
@@ -6548,7 +6548,7 @@
 "author": "Rodin"
 },
 {
-"text": "Si una manera es mejor que otra, puedes estar seguro de que es la manera de la naturaleza".,
+"text": "Si una manera es mejor que otra, puedes estar seguro de que es la manera de la naturaleza",
 "author": "Aristoteles"
 },
 {
@@ -6568,7 +6568,7 @@
 "author": "Abraham Lincoln"
 },
 {
-"text": "A veces, las cartas que recibimos no siempre son justas. Sin embargo, debes seguir sonriendo y seguir adelante".,
+"text": "A veces, las cartas que recibimos no siempre son justas. Sin embargo, debes seguir sonriendo y seguir adelante",
 "author": "Tom Jackson"
 }
 ]
