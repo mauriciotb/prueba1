@@ -1,6 +1,6 @@
 [
   {
-    "texto": "El genio es un uno por ciento de inspiración y un noventa y nueve por ciento de transpiración",
+    "text": "El genio es un uno por ciento de inspiración y un noventa y nueve por ciento de transpiración",
     "autor": "Thomas Edison"
   },
   {
@@ -40,11 +40,11 @@
     "author": "Margaret Sangster"
   },
   {
-    "texto": "La paz viene de dentro. No la busques fuera",
+    "text": "La paz viene de dentro. No la busques fuera",
     "author": "Buda"
   },
   {
-    "texto": "Lo que das es lo que recibes",
+    "text": "Lo que das es lo que recibes",
     "author": "Byron Pulsifer"
   },
   {
@@ -88,7 +88,7 @@
     "author": "Publilius Syrus"
   },
   {
-    "texto": "Las ideas son los puntos de partida de todas las fortunas",
+    "text": "Las ideas son los puntos de partida de todas las fortunas",
     "author": "Napoleon Hill"
   },
   {
@@ -116,7 +116,7 @@
     "author": "Sigmund Freud"
   },
   {
-    "texto": "Bien hecho es mejor que bien dicho",
+    "text": "Bien hecho es mejor que bien dicho",
     "author": "Benjamin Franklin"
   },
   {
@@ -128,7 +128,7 @@
     "autor": "Buda"
   },
   {
-    "texto": "Un hoy vale por dos mañanas",
+    "text": "Un hoy vale por dos mañanas",
     "author": "Benjamin Franklin"
   },
   {
@@ -156,7 +156,7 @@
     "author": "Socrates"
   },
   {
-    "texto": "El mundo está siempre en movimiento",
+    "text": "El mundo está siempre en movimiento",
     "author": "V. Naipaul"
   },
   {
@@ -176,7 +176,7 @@
     "author": "Brian Tracy"
   },
   {
-    "texto": "Quien siembra virtud cosecha honra",
+    "text": "Quien siembra virtud cosecha honra",
     "author": "Leonardo da Vinci"
   },
   {
@@ -200,7 +200,7 @@
     "author": "Michael Korda"
   },
   {
-    "texto": "Aprende del ayer, vive el hoy, espera el mañana",
+    "text": "Aprende del ayer, vive el hoy, espera el mañana",
     "author": "Albert Einstein"
   },
   {
